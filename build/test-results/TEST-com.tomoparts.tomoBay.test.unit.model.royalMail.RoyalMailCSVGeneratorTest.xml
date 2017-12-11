@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-07-29T14:14:36" hostname="Poseidon" time="0.479">
+<testsuite name="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-12-11T23:46:48" hostname="Poseidon" time="0.745">
   <properties/>
-  <testcase name="testGenerate" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.09"/>
-  <testcase name="testSetseparators" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.051"/>
-  <testcase name="testToStringGoodInput" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.101"/>
-  <testcase name="testSize" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.078"/>
-  <testcase name="testRoyalMailCSVGenerator" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.032"/>
-  <testcase name="testToStringBadInput" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.025"/>
-  <testcase name="testAddBatch" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.035"/>
-  <testcase name="testAddRow" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.032"/>
+  <testcase name="testGenerate" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.366"/>
+  <testcase name="testSetseparators" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.06"/>
+  <testcase name="testToStringGoodInput" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.085"/>
+  <testcase name="testSize" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.058"/>
+  <testcase name="testRoyalMailCSVGenerator" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.031"/>
+  <testcase name="testToStringBadInput" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.048"/>
+  <testcase name="testAddBatch" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.052"/>
+  <testcase name="testAddRow" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailCSVGeneratorTest" time="0.037"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

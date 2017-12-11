@@ -4,24 +4,24 @@ Root project
 ------------------------------------------------------------
 
 allprojects: [root project 'TomoGradle']
-ant: org.gradle.api.internal.project.DefaultAntBuilder@60429f4a
-antBuilderFactory: org.gradle.api.internal.project.DefaultAntBuilderFactory@7bd3eea3
+ant: org.gradle.api.internal.project.DefaultAntBuilder@251ad030
+antBuilderFactory: org.gradle.api.internal.project.DefaultAntBuilderFactory@1085fad8
 archivesBaseName: TomoGradle
-artifacts: org.gradle.api.internal.artifacts.dsl.DefaultArtifactHandler_Decorated@354becec
-asDynamicObject: org.gradle.api.internal.ExtensibleDynamicObject@2f37f907
+artifacts: org.gradle.api.internal.artifacts.dsl.DefaultArtifactHandler_Decorated@6740a8dc
+asDynamicObject: DynamicObject for root project 'TomoGradle'
 assemble: task ':assemble'
-baseClassLoaderScope: org.gradle.api.internal.initialization.DefaultClassLoaderScope@5bfb9b64
+baseClassLoaderScope: org.gradle.api.internal.initialization.DefaultClassLoaderScope@5d98fa9f
 build: task ':build'
 buildDependents: task ':buildDependents'
 buildDir: /home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/build
 buildFile: /home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/build.gradle
 buildNeeded: task ':buildNeeded'
-buildScriptSource: org.gradle.groovy.scripts.UriScriptSource@3f39d04e
-buildscript: org.gradle.api.internal.initialization.DefaultScriptHandler@55ff67c9
+buildScriptSource: org.gradle.groovy.scripts.UriScriptSource@2e703a4c
+buildscript: org.gradle.api.internal.initialization.DefaultScriptHandler@111c5660
 check: task ':check'
 childProjects: {}
 class: class org.gradle.api.internal.project.DefaultProject_Decorated
-classLoaderScope: org.gradle.api.internal.initialization.DefaultClassLoaderScope@451053b0
+classLoaderScope: org.gradle.api.internal.initialization.DefaultClassLoaderScope@73f81ad7
 classes: task ':classes'
 cleanEclipse: task ':cleanEclipse'
 cleanEclipseClasspath: task ':cleanEclipseClasspath'
@@ -29,19 +29,19 @@ cleanEclipseJdt: task ':cleanEclipseJdt'
 cleanEclipseProject: task ':cleanEclipseProject'
 compileJava: task ':compileJava'
 compileTestJava: task ':compileTestJava'
-components: [org.gradle.api.internal.java.JavaLibrary@4237c0cd]
-configurationActions: org.gradle.configuration.project.DefaultProjectConfigurationActionContainer@33fdd365
+components: [org.gradle.api.internal.java.JavaLibrary@692e4a35]
+configurationActions: org.gradle.configuration.project.DefaultProjectConfigurationActionContainer@4623bf06
 configurations: [configuration ':archives', configuration ':compile', configuration ':compileClasspath', configuration ':compileOnly', configuration ':cucumberRuntime', configuration ':default', configuration ':runtime', configuration ':testCompile', configuration ':testCompileClasspath', configuration ':testCompileOnly', configuration ':testRuntime']
-convention: org.gradle.api.internal.plugins.DefaultConvention@1d923bfc
-conventionMapping: org.gradle.api.internal.ConventionAwareHelper@5ad8762d
+convention: org.gradle.api.internal.plugins.DefaultConvention@357f5ef4
+conventionMapping: org.gradle.api.internal.ConventionAwareHelper@662d42e
 createDoxygenTemplates: task ':createDoxygenTemplates'
-cucumber: com.excella.gradle.cucumber.CucumberConvention_Decorated@2615e413
+cucumber: com.excella.gradle.cucumber.CucumberConvention_Decorated@1d064935
 cucumberJvmVersion: 1.1.6
-cucumberRunner: com.excella.gradle.cucumber.CucumberRunner@7bae6d4f
-defaultArtifacts: org.gradle.api.internal.plugins.DefaultArtifactPublicationSet_Decorated@77eff41d
+cucumberRunner: com.excella.gradle.cucumber.CucumberRunner@46061e1c
+defaultArtifacts: org.gradle.api.internal.plugins.DefaultArtifactPublicationSet_Decorated@94170d6
 defaultTasks: []
-deferredProjectConfiguration: org.gradle.api.internal.project.DeferredProjectConfiguration@6e1f8dd3
-dependencies: org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler_Decorated@6723d97f
+deferredProjectConfiguration: org.gradle.api.internal.project.DeferredProjectConfiguration@19921674
+dependencies: org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler_Decorated@36f2bb92
 dependencyCacheDir: /home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/build/dependency-cache
 dependencyCacheDirName: dependency-cache
 dependencyReport: task ':dependencyReport'
@@ -53,65 +53,65 @@ docsDir: /home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/build/docs
 docsDirName: docs
 doxygen: task ':doxygen'
 dryRun: false
-eclipse: org.gradle.plugins.ide.eclipse.model.EclipseModel_Decorated@6fef14c1
+eclipse: org.gradle.plugins.ide.eclipse.model.EclipseModel_Decorated@40f2b5ae
 eclipseClasspath: task ':eclipseClasspath'
 eclipseJdt: task ':eclipseJdt'
 eclipseProject: task ':eclipseProject'
-ext: org.gradle.api.internal.plugins.DefaultExtraPropertiesExtension@67a85a3d
-extensions: org.gradle.api.internal.plugins.DefaultConvention@1d923bfc
+ext: org.gradle.api.internal.plugins.DefaultExtraPropertiesExtension@4237aaa6
+extensions: org.gradle.api.internal.plugins.DefaultConvention@357f5ef4
 featureDirs: []
-fileOperations: org.gradle.api.internal.file.DefaultFileOperations@75cb220e
-fileResolver: org.gradle.api.internal.file.BaseDirFileResolver@cdaf5e9
+fileOperations: org.gradle.api.internal.file.DefaultFileOperations@4b9f2522
+fileResolver: org.gradle.api.internal.file.BaseDirFileResolver@681229e8
 formats: [pretty]
 glueDirs: []
 gradle: build 'TomoGradle'
 group: 
 htmlDependencyReport: task ':htmlDependencyReport'
 ignoreFailures: false
-inheritedScope: org.gradle.api.internal.ExtensibleDynamicObject$InheritedDynamicObject@1b04a1af
+inheritedScope: org.gradle.api.internal.ExtensibleDynamicObject$InheritedDynamicObject@3d18ae81
 jar: task ':jar'
 javadoc: task ':javadoc'
 libsDir: /home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/build/libs
 libsDirName: libs
-logger: org.gradle.logging.internal.slf4j.OutputEventListenerBackedLogger@722df07
-logging: org.gradle.logging.internal.DefaultLoggingManager@3ed87940
-modelRegistry: org.gradle.model.internal.registry.DefaultModelRegistry@12aff7c7
-modelSchemaStore: org.gradle.model.internal.manage.schema.extract.DefaultModelSchemaStore@64ee9b27
-module: org.gradle.api.internal.artifacts.ProjectBackedModule@5a5bd231
+logger: org.gradle.internal.logging.slf4j.OutputEventListenerBackedLogger@4205411e
+logging: org.gradle.internal.logging.services.DefaultLoggingManager@7001da49
+modelRegistry: org.gradle.model.internal.registry.DefaultModelRegistry@925e0c8
+modelSchemaStore: org.gradle.model.internal.manage.schema.extract.DefaultModelSchemaStore@71312bcb
+module: org.gradle.api.internal.artifacts.ProjectBackedModule@606fc505
 monochrome: false
 name: TomoGradle
 parent: null
 parentIdentifier: null
 path: :
-pluginManager: org.gradle.api.internal.plugins.DefaultPluginManager_Decorated@49012dc6
-plugins: [org.gradle.api.plugins.HelpTasksPlugin@475b1786, org.gradle.language.base.plugins.LifecycleBasePlugin@25579b1e, org.gradle.api.plugins.BasePlugin@38567c73, org.ysb33r.gradle.doxygen.DoxygenPlugin@2521e368, org.gradle.api.plugins.ReportingBasePlugin@6e80e3f4, org.gradle.platform.base.plugins.ComponentBasePlugin@3650d0cf, org.gradle.language.base.plugins.LanguageBasePlugin@65f65103, org.gradle.platform.base.plugins.BinaryBasePlugin@4de9014f, org.gradle.api.plugins.JavaBasePlugin@5cfceabe, org.gradle.api.plugins.JavaPlugin@466d0bbb, com.excella.gradle.cucumber.CucumberPlugin@73fa951d, org.gradle.plugins.ide.eclipse.EclipsePlugin@5e9d020b, org.gradle.api.plugins.ProjectReportsPlugin@7f8295fc]
-processOperations: org.gradle.api.internal.file.DefaultFileOperations@75cb220e
+pluginManager: org.gradle.api.internal.plugins.DefaultPluginManager_Decorated@19d49942
+plugins: [org.gradle.api.plugins.HelpTasksPlugin@deb3b60, org.gradle.language.base.plugins.LifecycleBasePlugin@44b18fe4, org.gradle.api.plugins.BasePlugin@4339baec, org.ysb33r.gradle.doxygen.DoxygenPlugin@ccf91df, org.gradle.api.plugins.ReportingBasePlugin@446626a7, org.gradle.platform.base.plugins.ComponentBasePlugin@4277127c, org.gradle.language.base.plugins.LanguageBasePlugin@6f231ced, org.gradle.platform.base.plugins.BinaryBasePlugin@6232ffdb, org.gradle.api.plugins.JavaBasePlugin@1b6924cb, org.gradle.api.plugins.JavaPlugin@4b0bd001, com.excella.gradle.cucumber.CucumberPlugin@3596b249, org.gradle.plugins.ide.eclipse.EclipsePlugin@6cfbbff7, org.gradle.api.plugins.ProjectReportsPlugin@43cb5f38]
+processOperations: org.gradle.api.internal.file.DefaultFileOperations@4b9f2522
 processResources: task ':processResources'
 processTestResources: task ':processTestResources'
 project: root project 'TomoGradle'
 projectDir: /home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle
 projectEvaluationBroadcaster: ProjectEvaluationListener broadcast
-projectEvaluator: org.gradle.configuration.project.LifecycleProjectEvaluator@77b6f490
-projectRegistry: org.gradle.api.internal.project.DefaultProjectRegistry@a59815f
+projectEvaluator: org.gradle.configuration.project.LifecycleProjectEvaluator@6779cba3
+projectRegistry: org.gradle.api.internal.project.DefaultProjectRegistry@417c5424
 projectReport: task ':projectReport'
 projectReportDir: /home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/docs/ProjHealth/ProjReports
 projectReportDirName: /home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/docs/ProjHealth/ProjReports
 projects: [root project 'TomoGradle']
 properties: {...}
 propertyReport: task ':propertyReport'
-reporting: org.gradle.api.reporting.ReportingExtension_Decorated@67a55e1c
+reporting: org.gradle.api.reporting.ReportingExtension_Decorated@39eb50b3
 reportsDir: /home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/build/reports
-repositories: [org.gradle.api.internal.artifacts.repositories.DefaultMavenArtifactRepository_Decorated@278a3033]
-resources: org.gradle.api.internal.resources.DefaultResourceHandler@67d84226
+repositories: [org.gradle.api.internal.artifacts.repositories.DefaultMavenArtifactRepository_Decorated@4c8c045]
+resources: org.gradle.api.internal.resources.DefaultResourceHandler@2dc537ac
 rootDir: /home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle
 rootProject: root project 'TomoGradle'
-scriptHandlerFactory: org.gradle.api.internal.initialization.DefaultScriptHandlerFactory@214d74fb
-scriptPluginFactory: org.gradle.configuration.DefaultScriptPluginFactory@6cd59b70
-serviceRegistryFactory: org.gradle.internal.service.scopes.ProjectScopeServices$4@1a282571
+scriptHandlerFactory: org.gradle.api.internal.initialization.DefaultScriptHandlerFactory@e3b9b44
+scriptPluginFactory: org.gradle.configuration.ScriptPluginFactorySelector@6d363cf8
+serviceRegistryFactory: org.gradle.internal.service.scopes.ProjectScopeServices$4@2fbe13f3
 services: ProjectScopeServices
 sourceCompatibility: 1.8
 sourceSets: [source set 'main', source set 'test']
-standardOutputCapture: org.gradle.logging.internal.DefaultLoggingManager@3ed87940
+standardOutputCapture: org.gradle.internal.logging.services.DefaultLoggingManager@7001da49
 state: project state 'EXECUTED'
 status: integration
 strict: false

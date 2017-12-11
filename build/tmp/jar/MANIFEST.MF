@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
-Class-Path: ebay_helper.jar ebaysdkcore.jar ebaycalls.jar ebay_attribu
- tes.jar xalan.jar streambuffer.jar stax-ex.jar slf4j-log4j12-1.6.1.ja
- r slf4j-api-1.6.1.jar sjsxp.jar serializer.jar saaj-impl.jar saaj-api
- .jar resolver.jar mimepull.jar log4j-1.2.16.jar jsr250-api.jar jsr181
- -api.jar jsr173_api.jar jaxws-tools.jar jaxws-rt.jar jaxws-api.jar ja
- xb-xjc.jar jaxb-impl.jar jaxb-api.jar jakarta-oro-2.0.8.jar http.jar 
- FastInfoset.jar activation.jar cucumber-java-1.2.4.jar cucumber-junit
+Class-Path: ebay_attributes.jar ebay_helper.jar ebaycalls.jar ebaysdkc
+ ore.jar FastInfoset.jar activation.jar http.jar jakarta-oro-2.0.8.jar
+  jaxb-api.jar jaxb-impl.jar jaxb-xjc.jar jaxws-api.jar jaxws-rt.jar j
+ axws-tools.jar jsr173_api.jar jsr181-api.jar jsr250-api.jar log4j-1.2
+ .16.jar mimepull.jar resolver.jar saaj-api.jar saaj-impl.jar serializ
+ er.jar sjsxp.jar slf4j-api-1.6.1.jar slf4j-log4j12-1.6.1.jar stax-ex.
+ jar streambuffer.jar xalan.jar cucumber-java-1.2.4.jar cucumber-junit
  -1.2.4.jar trove4j-3.0.3.jar log4j-1.2.17.jar c3p0-0.9.0.4.jar javax.
  mail-api-1.5.5.jar javax.mail-1.5.5.jar javax.json-api-1.0.jar javax.
  json-1.0.4.jar jetty-server-9.3.9.v20160517.jar jetty-servlet-9.3.9.v
