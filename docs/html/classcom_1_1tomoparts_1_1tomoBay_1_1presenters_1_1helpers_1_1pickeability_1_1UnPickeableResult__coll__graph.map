@@ -1,0 +1,4 @@
+<map id="UnPickeableResult" name="UnPickeableResult">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1conditionalStatement_1_1Result.html" title="This class defines the Abstract Base class for all derived Result classes. " alt="" coords="5,35,199,141"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1conditionalStatement_1_1Conditional.html" title="{Conditional\&lt; com.tomoparts.tomo\lBay.presenters.helpers.pickeability.\lPickeableStatus \&gt;\n||+ Conditional()\l+ evaluate()\l+ evaluate()\l+ startCondition()\l+ startResult()\l}" alt="" coords="374,5,622,171"/>
+</map>

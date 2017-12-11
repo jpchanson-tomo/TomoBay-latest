@@ -1,0 +1,4 @@
+<map id="SelectEbayBuyerFactory" name="SelectEbayBuyerFactory">
+<area shape="rect" id="node2" href="$interfacecom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryFactories_1_1AbstractSelectParamsQueryFactory.html" title="{AbstractSelectParamsQuery\lFactory\n||+ make()\l}" alt="" coords="5,131,208,223"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryFactories_1_1AbstractQueryFactory.html" title="all Queries are instantiated using a factory and each of these factories must conform to this interfa..." alt="" coords="26,5,187,83"/>
+</map>

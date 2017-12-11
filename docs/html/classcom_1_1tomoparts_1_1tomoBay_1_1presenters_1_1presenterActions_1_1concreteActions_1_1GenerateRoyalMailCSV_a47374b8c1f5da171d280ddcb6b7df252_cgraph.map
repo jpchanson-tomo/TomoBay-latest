@@ -1,0 +1,11 @@
+<map id="getInvoiceWeight" name="getInvoiceWeight">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1BrandToCode.html#a10207714bd294d73dd98b80fd94a2ab8" title="converts converts a string like &quot;citroen&quot; or &quot;fOrd&quot; to a brandcode integer specific to winstock..." alt="" coords="205,27,452,68"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1Stock.html#a4cbeebb8b8e67f9e1478b8b0d77d4228" title="query winstock for the weight of a particular invoice " alt="" coords="184,121,473,163"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1BrandToCode.html#a84072526fa5d5ce298cdceffc81f43e7" title="converts a string like &quot;citroen&quot; or &quot;fOrd&quot; to a brandcode specific to winstock. " alt="" coords="547,12,785,53"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1ConfigReader.html#a310420c6db22982498520c2ad7a2b82f" title="find the value of the config variable specified in the arguments. " alt="" coords="547,77,785,119"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1XMLParser.html#a9936151017dd4e908cf37d453b22c8ef" title="parses an XML formatted string looking for the first tag specified in the parameters. " alt="" coords="867,136,1106,177"/>
+<area shape="rect" id="node9" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1Stock.html#a42fa652d82ed49749a0ad929a6c798d0" title="remove the header bumpf from the bottom of the response " alt="" coords="521,197,811,239"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1ConfigReader.html#ab69b4a3a0fc6a7c7440362b06ec4b4d3" title="reads the whole config file into a string " alt="" coords="867,5,1106,47"/>
+<area shape="rect" id="node7" href="$enumcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1Config.html#a43cb99408ba4f337caad395ca67f9a6c" title="return the string associated with the enum const " alt="" coords="867,71,1106,112"/>
+<area shape="rect" id="node10" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1HttpResponse.html#afb798c825935128953439404fb763997" title="get the Response message " alt="" coords="859,201,1115,243"/>
+</map>

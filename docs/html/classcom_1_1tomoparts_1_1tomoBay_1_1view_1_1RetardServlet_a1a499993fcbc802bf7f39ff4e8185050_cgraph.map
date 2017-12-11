@@ -1,0 +1,6 @@
+<map id="doGet" name="doGet">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1PeriodicServicesController.html#adb3dedf31dc2c7fc796f20406c235ccd" title="performs the action specified " alt="" coords="115,31,437,87"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1PeriodicServicesController.html#a201d11e815c2a711053672277546c945" title="com.tomoparts.tomoBay.presenters.presenter\lActions.concreteActions.PeriodicServices\lController.executeStatic" alt="" coords="485,31,808,87"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1ServerStatus.html#a5a970a0f69193c7d515425d3ade75334" title="retrieve an instance of this object " alt="" coords="856,5,1116,47"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1ServerStatus.html#ae8ffecb6ba6ddfc3fab85af64f6350f5" title="allows a part of the system to set the status of the server. " alt="" coords="856,71,1116,112"/>
+</map>

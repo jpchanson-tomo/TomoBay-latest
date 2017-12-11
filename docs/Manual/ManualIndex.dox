@@ -1,0 +1,49 @@
+/**
+\page Development Development 
+[Home](@ref index) > @b Development
+
+# Build System
+
+------------------------------------
+This [page](@ref Preliminaries) contains details of the build system used for this project, including:
+- How to build the system
+- How to test the system
+	- Unit Testing
+	- Integration Testing
+	- Acceptance Testing
+- How to build the documentation
+- How to extend the build system
+
+
+------------------------------------
+
+# Design
+
+------------------------------------
+This [page](@ref Design) contains the design specifications for this project:
+- [RESTful client API](@ref ClientAPI)
+- Server Design
+	- [Model](@ref Model)
+	- [Views](@ref Views)
+	- [Preseneters](@ref Presenters)
+- Client Design
+	- [HTML](@ref HTML) Structure
+	- [CSS](@ref CSS) look/layout
+	- [Javascript/JQuery](@ref Javascript) behaviour 
+- Database Design
+
+----------------------------------
+
+# Useful resources
+
+---------------------------------
+
+A [list](@ref ResourceList) of useful resources for various aspects of this project from the 
+java language and third party libaries through to web technologies such as XML, HTTP, JSON and others.
+
+
+---------------------------------
+
+| \subpage Preliminaries | \subpage Design | \subpage ResourceList |
+**/
+

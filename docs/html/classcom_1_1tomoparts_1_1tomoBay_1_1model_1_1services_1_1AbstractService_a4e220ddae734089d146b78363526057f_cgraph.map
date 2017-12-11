@@ -1,0 +1,8 @@
+<map id="call" name="call">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1ServerStatus.html#a0de06b49749247f1ab7e4f12e7e4bf50" title="Allows a part of the system to query the current status of the server. " alt="" coords="96,5,356,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1AbstractService.html#a6998120b76bf43e86944c610c0ba19bc" title="onError" alt="" coords="191,71,261,98"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1AbstractService.html#a9a0f490cc7ec8a655dd5c873992c58e2" title="onPaused" alt="" coords="183,122,269,149"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1AbstractService.html#a08043250ceb48bf8f17d6d3b2f1feb7e" title="onRunning" alt="" coords="181,173,271,199"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1AbstractService.html#ad7cabc8553b412c1036c8e28c6f51017" title="onStopped" alt="" coords="180,223,272,250"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1AbstractService.html#a83c9eaae2609c1e6b0a86aca5c9644ea" title="sets the configuration for this service. " alt="" coords="185,274,267,301"/>
+</map>

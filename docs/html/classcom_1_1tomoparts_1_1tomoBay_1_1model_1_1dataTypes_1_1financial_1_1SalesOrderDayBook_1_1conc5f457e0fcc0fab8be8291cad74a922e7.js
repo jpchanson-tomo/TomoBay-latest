@@ -1,0 +1,5 @@
+var classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1conc5f457e0fcc0fab8be8291cad74a922e7 =
+[
+    [ "StandardInvoiceLine", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1conc5f457e0fcc0fab8be8291cad74a922e7.html#ac7ecfd7fa5de978d1c5e28ff4183107e", null ],
+    [ "unitPrice", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1conc5f457e0fcc0fab8be8291cad74a922e7.html#ad4699f0815895232592f2e0a89f67b39", null ]
+];

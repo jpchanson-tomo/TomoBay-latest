@@ -1,0 +1,52 @@
+.panel-footer{<!--background:#99ff99;-->}
+
+td{padding-left:10px;}
+
+table{margin-left:10px;}
+
+.transactionTable
+{
+	margin-bottom:0px;
+	background:lightblue;
+	font-size:10pt;
+}
+
+.partsTable
+{
+	background:lightgreen;
+	font-size:10pt;
+}
+
+.shippingLine
+{
+	background:yellow;
+	font-size:10pt;
+}
+
+.grandTotal
+{
+	background:#337AB7;
+	color:white;
+}
+
+body{bottom:0px;}
+
+.content
+{
+	position:absolute;
+	top:60px;
+	bottom:350px;
+	right:0px;
+	left:0px;
+}
+
+.listingLink
+{color:darkblue;}
+
+#shippingType
+{font-size:11px;}
+
+#title{display:inline-block;width:100%;}
+#account{display:inline-block; margin-left:10px;}
+#orderID{display:inline-block; float:left;}
+#invoiceNo{display:inline-block; float:right;}

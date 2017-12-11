@@ -1,0 +1,8 @@
+var namespacecom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions =
+[
+    [ "concreteActions", "namespacecom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions.html", "namespacecom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions" ],
+    [ "factories", "namespacecom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1factories.html", "namespacecom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1factories" ],
+    [ "AbstractPresenterAction", "interfacecom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1AbstractPresenterAction.html", "interfacecom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1AbstractPresenterAction" ],
+    [ "AllowedPresenterActions", "classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1AllowedPresenterActions.html", "classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1AllowedPresenterActions" ],
+    [ "PresenterActionFactory", "classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1PresenterActionFactory.html", "classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1PresenterActionFactory" ]
+];

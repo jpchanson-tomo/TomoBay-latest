@@ -1,0 +1,12 @@
+<map id="AbstractPresenter" name="AbstractPresenter">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1admin_1_1AdminPresenter.html" title="{AdminPresenter\n||+ AdminPresenter()\l+ present()\l+ accept()\l}" alt="" coords="5,153,156,259"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1crm_1_1CRMDetailPresenter.html" title="{CRMDetailPresenter\n||+ CRMDetailPresenter()\l+ present()\l+ accept()\l}" alt="" coords="180,153,355,259"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1crm_1_1CRMOverviewPresenter.html" title="{CRMOverviewPresenter\n||+ CRMOverviewPresenter()\l+ present()\l+ accept()\l}" alt="" coords="379,153,574,259"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1error_1_1ErrorPresenter.html" title="This class provides the presenter for the scenario in which the designer of the frontend has supplied..." alt="" coords="599,153,739,259"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1orderDetails_1_1OrderDetailsPresenter.html" title="{OrderDetailsPresenter\n||+ present()\l+ accept()\l}" alt="" coords="763,160,927,252"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1root_1_1RootPresenter.html" title="this is the presenter for the root of the webApp. " alt="" coords="951,153,1090,259"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1sales_1_1OutOfHoursPresenter.html" title="{OutOfHoursPresenter\n|&#45; OLD_ORDER_LIMIT\l|+ present()\l+ accept()\l&#45; removeOldOrders()\l&#45; ToDate()\l}" alt="" coords="1115,145,1273,267"/>
+<area shape="rect" id="node9" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1sales_1_1SalesHistoryPresenter.html" title="This class represents the History presenter of the Sales area of the WebApp. " alt="" coords="1298,153,1487,259"/>
+<area shape="rect" id="node10" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1sales_1_1SalesOrderPresenter.html" title="This class is responsible for providing the dynamic data to the orders section of the sales &#39;Orders&#39; ..." alt="" coords="1512,145,1692,267"/>
+<area shape="rect" id="node11" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1warehouse_1_1WarehouseOrderPresenter.html" title="This class is responsible for providing the dynamic information specific to the picking area of the w..." alt="" coords="1717,153,1933,259"/>
+</map>

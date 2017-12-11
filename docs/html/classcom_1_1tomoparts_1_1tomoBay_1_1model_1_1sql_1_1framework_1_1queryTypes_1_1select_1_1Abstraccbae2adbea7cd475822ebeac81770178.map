@@ -1,0 +1,4 @@
+<map id="AbstractSelectNoParamsQuery" name="AbstractSelectNoParamsQuery">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryTypes_1_1select_1_1AbstractSelectQuery.html" title="{AbstractSelectQuery\n||+ AbstractSelectQuery()\l# format()\l}" alt="" coords="39,301,218,393"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryTypes_1_1AbstractDBQuery.html" title="Interface that all database queries must adhere to. " alt="" coords="62,145,195,252"/>
+</map>

@@ -1,0 +1,9 @@
+var namespacecom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService =
+[
+    [ "BasicEbayUpdateService", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1BasicEbayUpdateService.html", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1BasicEbayUpdateService" ],
+    [ "Buyers_Table", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1Buyers__Table.html", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1Buyers__Table" ],
+    [ "ItemsAndPartsTable", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1ItemsAndPartsTable.html", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1ItemsAndPartsTable" ],
+    [ "OnRunning", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1OnRunning.html", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1OnRunning" ],
+    [ "Orders_Table", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1Orders__Table.html", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1Orders__Table" ],
+    [ "Transactions_Table", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1Transactions__Table.html", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1basicEbayUpdateService_1_1Transactions__Table" ]
+];

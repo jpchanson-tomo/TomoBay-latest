@@ -1,0 +1,4 @@
+<map id="add" name="add">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1PartList.html#a5820ad58620d1c2f8e4ad5235b16aff8" title="uses regex to decompose the composite part number into quantities and part numbers, then place these in the partlist. " alt="" coords="100,5,171,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1PartList.html#a9d767398e5db37d3b2f42bef966bbc44" title="creates a part list with the partNoString provided. " alt="" coords="219,5,289,32"/>
+</map>

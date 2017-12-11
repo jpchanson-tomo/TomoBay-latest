@@ -1,0 +1,1323 @@
+{
+"type":" INFO",
+"time":"2016-06-13 15:30:21,902",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:30:21,922",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:30:22,128",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@2859ccba[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 2859ccba, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:39:22,990",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:39:23,014",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:39:23,163",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@249b0f53[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 249b0f53, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:42:44,543",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:42:44,565",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:42:44,678",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@3d5b0624[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 3d5b0624, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:55:27,772",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:55:27,797",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:55:27,922",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@3d5b0624[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 3d5b0624, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:07:57,046",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:07:57,070",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:07:57,189",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@4312ba3e[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 4312ba3e, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:19:30,710",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:19:30,738",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:19:30,857",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@3d5b0624[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 3d5b0624, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:21:13,000",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:21:13,037",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:21:13,230",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@3d5b0624[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 3d5b0624, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:22:20,903",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:22:20,927",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:22:21,045",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@3d5b0624[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 3d5b0624, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:59:31,420",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:59:31,443",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:59:31,570",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@4312ba3e[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 4312ba3e, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:59:51,395",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:59:51,416",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 16:59:51,534",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@4312ba3e[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 4312ba3e, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 13:39:42,632",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 13:39:42,663",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 13:39:42,811",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@4312ba3e[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 4312ba3e, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:03:18,044",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:03:18,066",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:03:18,186",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@34e22dc6[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 34e22dc6, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:05:54,174",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:05:54,200",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:05:54,465",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@47c7c727[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 47c7c727, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:07:35,509",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:07:35,534",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:07:35,724",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@33916df4[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 33916df4, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:13:55,681",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:13:55,734",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:13:55,948",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@33916df4[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 33916df4, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:17:54,633",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:17:54,659",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:17:54,887",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@5d457020[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 5d457020, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:56:21,747",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:56:21,768",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:56:21,983",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@33916df4[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 33916df4, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:57:37,669",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:57:37,689",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:57:37,826",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@5d457020[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 5d457020, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:58:43,096",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:58:43,119",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:58:43,251",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@5d457020[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 5d457020, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:59:33,540",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:59:33,563",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 14:59:33,746",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@5d457020[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 5d457020, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 17:27:39,847",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 17:27:39,866",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 17:27:40,142",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@4908f4d6[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 4908f4d6, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 19:06:08,711",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 19:06:08,753",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-14 19:06:08,928",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@33916df4[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 33916df4, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:13:33,067",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:13:33,094",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:13:33,281",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@5d457020[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 5d457020, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:20:58,050",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:20:58,071",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:20:58,230",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@5d457020[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 5d457020, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:22:58,157",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:22:58,183",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:22:58,364",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@5d457020[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 5d457020, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:23:53,289",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:23:53,326",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:23:53,484",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@424dd0b5[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 424dd0b5, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:25:13,204",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:25:13,239",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:25:13,399",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@786dd9ab[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 786dd9ab, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:25:55,911",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:25:55,933",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-15 09:25:56,068",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@5d457020[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 5d457020, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-17 09:14:54,536",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-17 09:14:54,620",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-17 09:14:54,930",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@2a9be823[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 2a9be823, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:31:23,069",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:31:23,127",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:31:23,454",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@33916df4[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 33916df4, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:37:07,429",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:37:07,450",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:37:07,771",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@34aa8e93[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 34aa8e93, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:37:15,594",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:37:15,615",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:37:15,884",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@79698539[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 79698539, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:38:27,058",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:38:27,113",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 11:38:27,684",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@79698539[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 79698539, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 12:46:09,714",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 12:46:09,754",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 12:46:10,055",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@6aaa5eb0[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 6aaa5eb0, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 12:46:34,699",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 12:46:34,726",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-22 12:46:34,918",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@5d457020[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 5d457020, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-23 09:35:43,644",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-23 09:35:43,674",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-23 09:35:43,884",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@33916df4[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 33916df4, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 11:45:47,895",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 11:45:47,943",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 11:45:48,212",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@2be02f82[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 2be02f82, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 11:50:43,671",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 11:50:43,696",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 11:50:43,945",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@574c5c11[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 574c5c11, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:14:17,198",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:14:17,215",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:14:17,473",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@3abc4d00[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 3abc4d00, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:14:58,523",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:14:58,544",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:14:58,764",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@368c434d[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 368c434d, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:15:15,660",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:15:15,680",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:15:15,916",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@74be40ca[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 74be40ca, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:17:38,931",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:17:38,989",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:17:39,348",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@46bd9656[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 46bd9656, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:20:35,120",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:20:35,142",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:20:35,382",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@12d426a7[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 12d426a7, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:59:51,548",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:59:51,572",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 13:59:51,706",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@547dc9e6[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 547dc9e6, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:00:42,827",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:00:42,853",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:00:43,016",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@547dc9e6[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 547dc9e6, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:01:04,220",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:01:04,242",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:01:04,386",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@14e22aa0[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 14e22aa0, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:01:48,989",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:01:49,011",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:01:49,212",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@14e22aa0[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 14e22aa0, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:40:32,340",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:40:32,363",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:40:32,604",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@6fc245ca[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 6fc245ca, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:44:30,263",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:44:30,282",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:44:30,513",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@46bd9656[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 46bd9656, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:47:35,290",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:47:35,312",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:47:35,579",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@284795a1[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 284795a1, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:50:20,570",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:50:20,595",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:50:22,428",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@495aaa39[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 495aaa39, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:51:36,726",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:51:36,746",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 14:51:36,924",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@716266b3[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 716266b3, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:00:59,942",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:00:59,963",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:01:00,236",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@46bd9656[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 46bd9656, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:03:20,932",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:03:20,957",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:03:21,247",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@26d91c00[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 26d91c00, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:08:41,415",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:08:41,443",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:08:41,638",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@71a1f675[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 71a1f675, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:14:34,924",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:14:34,953",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:14:35,185",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@49a3c041[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 49a3c041, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:15:27,707",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:15:27,743",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:15:28,021",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@2451bfa5[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 2451bfa5, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:15:56,353",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:15:56,381",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:15:56,585",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@37d0789d[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 37d0789d, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:18:41,201",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:18:41,218",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-07-29 15:18:41,404",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@716266b3[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 716266b3, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-02 09:39:07,632",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-02 09:39:07,700",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-02 09:39:07,963",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@c3db7e3[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> c3db7e3, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-02 12:58:22,944",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-02 12:58:22,990",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-02 12:58:23,457",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@26d5672f[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 26d5672f, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-03 09:02:37,087",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-03 09:02:37,151",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-03 09:02:37,501",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@4f3f164b[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 4f3f164b, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-03 09:03:36,437",
+"message":"MLog clients using log4j logging.",
+"source":"com.mchange.v2.log.MLog"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-03 09:03:36,483",
+"message":"Initializing c3p0-0.9.0.4 [built 23-January-2006 22:20:29 -0500; debug? true; trace: 10]",
+"source":"com.mchange.v2.c3p0.C3P0Registry"
+},
+
+{
+"type":" INFO",
+"time":"2016-08-03 09:03:36,777",
+"message":"Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource@3ad785cf[ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 3ad785cf, idleConnectionTestPeriod -> -1, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.0.202:3306/ebay_stopgap, loginTimeout -> 0, maxIdleTime -> 0, maxPoolSize -> 20, maxStatements -> 180, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 300, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, usesTraditionalReflectiveProxies -> false ]",
+"source":"com.mchange.v2.c3p0.PoolBackedDataSource"
+},
+

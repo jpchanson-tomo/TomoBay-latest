@@ -1,0 +1,12 @@
+<map id="checkStockLevelOfItems" name="checkStockLevelOfItems">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1BrandToCode.html#a10207714bd294d73dd98b80fd94a2ab8" title="converts converts a string like &quot;citroen&quot; or &quot;fOrd&quot; to a brandcode integer specific to winstock..." alt="" coords="253,5,500,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1PartList.html#ab743beefffd4d159c3b91639caee92da" title="get the part number at position i in the list " alt="" coords="247,71,507,112"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1PartList.html#a5bebcb62b6ffa7676eacf169f0bfe603" title="get the quantity of the part number at position i in the list " alt="" coords="247,136,507,177"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1Stock.html#a06d21b6ad2b8a746c52fadb5d4711778" title="query winstock for the stock level of a particular part. " alt="" coords="232,201,521,243"/>
+<area shape="rect" id="node11" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1PartList.html#af4b57d21919c42d55af03391f91a1c08" title="the size of the part list. " alt="" coords="247,267,507,308"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1BrandToCode.html#a84072526fa5d5ce298cdceffc81f43e7" title="converts a string like &quot;citroen&quot; or &quot;fOrd&quot; to a brandcode specific to winstock. " alt="" coords="595,5,833,47"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1XMLParser.html#a9936151017dd4e908cf37d453b22c8ef" title="parses an XML formatted string looking for the first tag specified in the parameters. " alt="" coords="595,136,833,177"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1Stock.html#a42fa652d82ed49749a0ad929a6c798d0" title="remove the header bumpf from the bottom of the response " alt="" coords="569,201,859,243"/>
+<area shape="rect" id="node10" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1Stock.html#a82b5421e7d3a2ba82bdc5d54b09a8069" title="com.tomoparts.tomoBay.model.winstock.\lStock.queryWinstockURL" alt="" coords="569,267,859,308"/>
+<area shape="rect" id="node9" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1HttpResponse.html#afb798c825935128953439404fb763997" title="get the Response message " alt="" coords="907,201,1163,243"/>
+</map>

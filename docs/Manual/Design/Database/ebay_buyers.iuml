@@ -1,0 +1,18 @@
+@startuml
+hide fields
+
+class ebay_buyers << (T, lightgreen) >>[[ebay_buyers.html]] {
+		buyerID : VARCHAR(40)
+		name : VARCHAR(45)
+		street1 : VARCHAR(80)
+		street2 : VARCHAR(80)
+		city : VARCHAR(80)
+		county : VARCHAR(80)
+		postcode : VARCHAR(15)
+		email : VARCHAR(100)
+		phone : VARCHAR(16)
+	} 
+
+
+
+@enduml

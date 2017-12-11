@@ -1,0 +1,40 @@
+/**
+\page ebay_items ebay_items 
+[Home](@ref index) > [Development](@ref Development) > [Design](@ref Design) > [Database](@ref Database) > @b ebay_items
+
+@startuml
+!include ../Manual/Design/Database/ebay_items.iuml
+@enduml
+
+Each record in this table represents an eBay listing, and the table contains fields that directly
+relate to this. The only way to get to an item from an order is to go through information contained
+in the ebay_transactions table. 
+
+- **itemID** The unique identifier associated with a specific record in the items table, this is
+primary key of this table and is a BIGINT (integer greater than 11 digits) with a maximum length
+of digits.
+ 
+- **title** This field represents the title of an ebay listing, usually it will indicate what the 
+item being sold is. It is an VARCHAR/String field with a maximum length of 83 characters. 
+
+- **sellCondition** This field represents the condition of the item being sold i.e. new, used 
+reconditioned etc. It is a VARCHAR/String field with a maximum length of 15 characters.
+
+- **brand** This field represents the brand of the item(s) being sold. These usually line up with
+the an account name (not actually a foreign key, but almost). This field is a VARCHAR/String 
+field with a maximum length of 50 characters.
+
+- **partNo** This field represents the part number(s) of the item(s) being sold in a particular 
+listing. This compound part number must be in a particular format to be picked up by the system.
+
+- **notes** This field represents any notes that are associated with a particular record (i.e. 
+listing), this is usually an error message of some description; which is used by the system to 
+indicate to the user that something is wrong with that listing. It is a VARCHAR/String field with
+a maximum length of 60 characters
+
+- **account** This field is a foreign key that links to the accountID field of the ebay_accounts
+table. This is an integer field with a maximum length of 11 digits.
+
+@see com.tomoparts.tomoBay.model.sql.schema.itemsTable.PartNo
+@see com.tomoparts.tomoBay.model.sql.schema.itemsTable
+**/

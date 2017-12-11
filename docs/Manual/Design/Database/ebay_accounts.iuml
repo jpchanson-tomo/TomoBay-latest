@@ -1,0 +1,10 @@
+@startuml
+hide fields
+	class ebay_accounts << (T, lightgreen) >>[[ebay_accounts.html]] {
+		id : INT(3)
+		acountName : VARCHAR(20)
+		apiKey : VARCHAR(900)
+		serverAddr : VARCHAR(45)
+		lookbackDays : INT(3)
+	}
+@enduml

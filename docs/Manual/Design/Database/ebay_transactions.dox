@@ -1,0 +1,46 @@
+/**
+\page  ebay_transactions ebay_transactions
+[Home](@ref index) > [Development](@ref Development) > [Design](@ref Design) > [Database](@ref Database) > @b ebay_transactions
+
+@startuml
+!include ../Manual/Design/Database/ebay_transactions.iuml
+@enduml
+
+Each record in this table is an eBay transaction. The distinction between a transaction and an
+order is that an order may have multiple transactions associated with it, This is the case when an
+eBay buyer has ordered more than one item in the same session. In most cases only one transaction
+will be present in an order but it does happen.
+
+
+- **transactionID** this field is the primary key of this table it is a unique identifier taken 
+straight from what the eBay API provides. It is an BIGINT field with a maximum length of 20 digits.
+ 
+
+- **orderID** This field is a foreign key pointing to the [ebay_orders](@ref ebay_orders) table and 
+is a number taken straight from the eBay API. This is a VARCHAR/String field with a maxuimum length
+of 30 characters.
+
+
+- **itemID** This field is a foreign key to the [ebay_items](@ref ebay_items) table it is a BIGINT
+field with a maximum length of 20 digits. This value of this field is taken straight from the eBay
+API.
+
+
+- **quantity** This field represents the quantity of the items in this transaction, i.e. the number
+of times the listing associated with this transaction has been purchased. It is an INTEGER field 
+with a maximum length of 7 digits.
+
+
+- **price** This field represents the price of 1 unit of this listing  i.e. if bought a single item
+denoted by the 'itemID' this field represents how much that would cost. This field is a FLOAT field
+with a maximum length of 12 digits.
+
+
+- **shippingCost** This field represents the shipping cost of this transaction, this is taken
+from the eBay API and will differ from order to order. It is FLOAT field with a maximum length of
+12 digits.
+
+
+@see  com.tomoparts.tomoBay.model.sql.schema.transactionsTable
+
+**/

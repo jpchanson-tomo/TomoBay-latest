@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1AbstractPayloadComponent.html" title="AbstractPayloadComponent" alt="" coords="5,436,207,463"/>
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1AddressComponent.html" title="AddressComponent" alt="" coords="277,5,426,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1CityComponent.html" title="CityComponent" alt="" coords="291,56,412,83"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1CompanyComponent.html" title="CompanyComponent" alt="" coords="272,107,431,133"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1CountyComponent.html" title="CountyComponent" alt="" coords="280,157,423,184"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1DescriptionComponent.html" title="DescriptionComponent" alt="" coords="267,208,436,235"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1InStockComponent.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="279,259,423,285"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1InvLineComponent.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="281,309,422,336"/>
+<area shape="rect" id="node9" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1InvoiceAccountComponent.html" title="InvoiceAccountComponent" alt="" coords="255,360,448,387"/>
+<area shape="rect" id="node10" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1InvoiceNoComponent.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="272,411,431,437"/>
+<area shape="rect" id="node11" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1NameComponent.html" title="NameComponent" alt="" coords="283,461,419,488"/>
+<area shape="rect" id="node12" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1OrderNoComponent.html" title="OrderNoComponent" alt="" coords="276,512,427,539"/>
+<area shape="rect" id="node13" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1PackingListsComponent.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="264,563,439,589"/>
+<area shape="rect" id="node14" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1PartNoComponent.html" title="PartNoComponent" alt="" coords="281,613,422,640"/>
+<area shape="rect" id="node15" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1PostCodeComponent.html" title="PostCodeComponent" alt="" coords="272,664,431,691"/>
+<area shape="rect" id="node16" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1PriceComponent.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="287,715,415,741"/>
+<area shape="rect" id="node17" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1PrintCopiesComponent.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="267,765,436,792"/>
+<area shape="rect" id="node18" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1QuantityComponent.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="276,816,427,843"/>
+<area shape="rect" id="node19" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1payloads_1_1components_1_1TypeComponent.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="288,867,415,893"/>
+</map>

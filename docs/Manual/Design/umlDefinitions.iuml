@@ -1,0 +1,42 @@
+@startuml
+
+/' --------------------------------GLOBAL----------------------------------- '/
+scale 1/1
+left to right direction
+center footer interactive diagram, click on the item you wish to find information on.
+
+/' --------------------------UML DECLARATIONS------------------------------- '/
+frame "Project Overview" {
+	package "Client" [[Client.html]]
+	package "Client" {
+		[HTML] [[HTML.html]]
+		[CSS] [[CSS.html]]
+		[Javascript] [[Javascript.html]]
+	}
+
+	cloud "Client API" [[ClientAPI.html]]
+
+	database "Database" [[Database.html]]
+
+	package "Server" [[Server.html]]
+	package "Server" {
+		[Model] [[namespacecom_1_1tomoparts_1_1tomoBay_1_1model.html]]
+		[View] [[namespacecom_1_1tomoparts_1_1tomoBay_1_1view.html]]
+		[Presenter] [[namespacecom_1_1tomoparts_1_1tomoBay_1_1presenters.html]]
+	}
+}
+
+
+/' -------------------------------UML WIRING---------------------------------'/
+[CSS] -> [HTML] : Styles
+[Javascript] --> [HTML] : Updates
+[CSS] <-- [Javascript] : Updates
+
+[Javascript] <..> [Client API] : Responds to/Requests from
+[Client API] <..> [View] : Provides/Accesses
+
+[Presenter] <-> [Model] : updates
+[Model] <..> [Database] : updates
+[View] <-> [Presenter] : updates
+
+@enduml

@@ -1,0 +1,108 @@
+/**
+\page Design Design
+
+[Home](@ref index) > [Development](@ref Development) > @b Design
+
+@startuml
+!include ../Manual/Design/umlDefinitions.iuml
+@enduml
+
+--------------------------------------
+
+# Client
+
+-------------------------------------
+The [client](@ref Client) is a web application built using: HTML, Javascript/Jquery and CSS. It is 
+the frontend for the user to interact with the server through. The client is the method through 
+which the user interacts with the [RESTful Client API](@ref ClientAPI) provided by the 
+[server](@ref Server).
+
+## HTML
+The [HTML](@ref HTML) provides the structure for the web application i.e. a series of pages that 
+group related functionality together. The majority of the html files are pretty sparse as the 
+[Javascript](@ref Javascript) is responsible for inserting much of the dynamic html content in 
+reaction to responses from the [Client API](@ref ClientAPI). The most of these structural html tags 
+are given class or ID values that allow them to be interacted with by the Javascript, or styled by 
+the [CSS](@ref CSS).
+
+## Javascript
+The [Javascript](@ref Javascript) provides dynamic behaviour to the pages defined in the 
+[HTML](@ref HTML), in many cases this dynamic behaviour comes from interaction with the 
+[Client API](@ref ClientAPI) and displaying the results of this interaction. This section also 
+decribes any external JS libraries used in the creation of the client.
+
+## CSS
+The [CSS](@ref CSS) provides styling and theming to the [html](@ref HTML) and is defined in external
+stylesheets as well as in many cases by [Javascript](@ref Javascript). In some rare cases the CSS 
+also provides some basic behaviour in the form of css hover and transition type actions.
+
+-------------------------------------
+
+# Client API
+
+-------------------------------------
+
+The [Client API](@ref ClientAPI) is how the [web client](@ref Client) interacts with the 
+[server](@ref Server) and describes how the server will return information to the web client after 
+the request has been processed, as well as the form that requests to the server will take. This 
+section will describe all the possible calls that the client can make of the server. 
+
+
+-------------------------------------
+
+# Database
+
+-------------------------------------
+
+This section describes the design and structure of the [database](@ref Database), both the 
+relationships between the tables and the internal table structure. This section will also describe
+some of the setup of the MySQL server.
+
+
+-------------------------------------
+
+# Server
+
+-----------------------------------
+The Servers architecture follows a loose model/view/presenter structure and the package structure of
+the code reflects this. Each of the Model, Views and Presenters are grouped in a seperate package 
+off of the root package i.e.
+
+- com.tomoparts.tomoBay.model
+- com.tomoparts.tomoBay.view
+- com.tomoparts.tomoBay.presenters
+
+There are also a couple of other ancilliary packages which contain other miscelaneous bits of
+functionality:
+
+- com.tomoparts.tomoBay.exceptions This package contains all the custom exceptions used in the 
+codebase.
+- com.tomoparts.tomoBay.helpers This package contains all classes that do not fit within the 
+normal MVC architecture
+- com.tomoparts.tomoBay.security This package contains all the classes related to various aspects
+of security.
+
+
+## Model
+the [Model](@ref com.tomoparts.tomoBay.model) package contains all logic for querying, retrieving, 
+and managing the data backend. In our case this is mostly interactions with a MySQL database as well
+as the eBay(through the API) and Winstock (through a direct socket and custom protocol).
+
+## Views
+The [View](@ref com.tomoparts.tomoBay.view) package is responsible for providing functionality for 
+formatting the data into a format that the front end application can easily read and used by the
+[Client API](@ref ClientAPI).
+ 
+
+## Presenters
+The [Presenters](@ref com.tomoparts.tomoBay.presenters) package is responsible for the business logic
+of the system i.e. taking data from the model and transforming in some way that benefits the business
+needs and then passing it to a view to format.
+
+
+<br/><br/><br/>
+
+------------------------------------
+
+| \subpage Client | \subpage ClientAPI | \subpage Database | \subpage Server |
+**/

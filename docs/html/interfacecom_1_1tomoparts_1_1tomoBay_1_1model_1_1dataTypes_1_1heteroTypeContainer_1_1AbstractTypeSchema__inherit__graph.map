@@ -1,0 +1,10 @@
+<map id="AbstractTypeSchema" name="AbstractTypeSchema">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1schema_1_1accountsTable_1_1AccountsTable.html" title="This represents the structure of the ebay_accounts table in the database. " alt="" coords="5,160,155,296"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1schema_1_1buyerTable_1_1BuyerTable.html" title="This represents the structure of the ebay_buyers table in the database. " alt="" coords="179,131,291,325"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1schema_1_1itemsTable_1_1ItemsTable.html" title="This represents the structure of the ebay_items table of the database. " alt="" coords="315,145,426,311"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1schema_1_1nonDBFields_1_1NonDBFields.html" title="{NonDBFields\n|+ RESULT_CODE\l+ DATE_COMPARISON\l+ Custom_INT_FIELD\l|&#45; NonDBFields()\l}" alt="" coords="451,175,616,281"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1schema_1_1ordersTable_1_1OrdersTable.html" title="This class represents the ebay_orders table in the database. " alt="" coords="640,138,779,318"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1schema_1_1orderStatusTable_1_1OrderStatusTable.html" title="This class represents the order_status table in the database. " alt="" coords="803,160,957,296"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1schema_1_1outOfHoursTable_1_1OutOfHoursTable.html" title="This class represents the out_of_hours table in the database implementation. " alt="" coords="981,182,1131,274"/>
+<area shape="rect" id="node9" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1schema_1_1transactionsTable_1_1TransactionsTable.html" title="This represents the ebay_transactions table in the database, An order usually consists of one transac..." alt="" coords="1155,153,1311,303"/>
+</map>

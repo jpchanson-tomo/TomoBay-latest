@@ -1,0 +1,5 @@
+<map id="AbstractSalesDayBookLine" name="AbstractSalesDayBookLine">
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1concreteLineTypes_1_1GSPInvoice.html" title="{GSPInvoice\n||+ GSPInvoice()\l# generateLineItems()\l}" alt="" coords="5,447,172,539"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1conc7e5bfa2ca7d29ae399a076f000f5c217.html" title="This class represents a standard invoice without extra shipping. " alt="" coords="196,447,363,539"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1conc423d5799d246db2ad40dc7ffc82f40db.html" title="{StandardInvoiceWithShipping\n||+ StandardInvoiceWithShipping()\l# generateLineItems()\l}" alt="" coords="387,447,619,539"/>
+</map>

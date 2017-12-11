@@ -1,0 +1,19 @@
+/**
+\page ClientAPI RESTful Client API
+[Home](@ref index) > [Development](@ref Development) > [Design](@ref Design) > <b>Client API</b>
+
+@remark This API has inconsistancies due to the fact that the usage of the presenter-model part of
+the system changed during the course of the creation of the system. This change was not managed as 
+well as it could have been.
+
+The general form of the \"<em><strong>webaddress</strong></em>/res/?page=<em><strong>PresenterName
+</strong></em>&type=<em><strong>functionalityType</strong></em>&data=<em><strong>dataToBeProcessed
+</strong></em>\" 
+ignoring the angle brackets(obviously). If the API is being called by the system i.e. you are not
+trying to access data then the <em><strong>webaddress</strong></em> can be ignored however it must be
+included if you are writing an external system to use the API.
+
+The rest of the url is necessary in all cases, with one addendum: In functions that are contained in
+the [presenterActions](@ref com.tomoparts.tomoBay.presenters.presenterActions)
+
+**/

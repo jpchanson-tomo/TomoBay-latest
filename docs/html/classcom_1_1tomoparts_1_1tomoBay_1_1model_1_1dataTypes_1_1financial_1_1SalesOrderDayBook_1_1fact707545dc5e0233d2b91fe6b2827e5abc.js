@@ -1,0 +1,5 @@
+var classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1fact707545dc5e0233d2b91fe6b2827e5abc =
+[
+    [ "StandardInvoiceWithShippingFactory", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1fact707545dc5e0233d2b91fe6b2827e5abc.html#a75d431cc555159c5b6feb2b75c13100c", null ],
+    [ "make", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1fact707545dc5e0233d2b91fe6b2827e5abc.html#ab4b1ec3764547f367b1515c5d7b378fb", null ]
+];

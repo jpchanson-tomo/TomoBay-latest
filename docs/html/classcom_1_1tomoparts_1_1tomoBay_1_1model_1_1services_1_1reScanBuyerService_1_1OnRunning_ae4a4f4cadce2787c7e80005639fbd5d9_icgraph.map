@@ -1,0 +1,4 @@
+<map id="execute" name="execute">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanBuyerService_1_1ReScanBuyerService.html#ae3b0a282dcba7f2d675ca89b1dd48487" title="com.tomoparts.tomoBay.model.services.re\lScanBuyerService.ReScanBuyerService.onRunning" alt="" coords="127,5,472,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanBuyerService_1_1ReScanBuyerService.html#afd85cd6baa355d54ab15c19c16c21df9" title="com.tomoparts.tomoBay.model.services.re\lScanBuyerService.ReScanBuyerService.onPaused" alt="" coords="520,5,861,47"/>
+</map>

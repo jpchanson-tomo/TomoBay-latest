@@ -1,0 +1,10 @@
+<map id="AbstractServiceFactory" name="AbstractServiceFactory">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1factories_1_1BasicEbayServiceFactory.html" title="This factory creates a BasicEbayUpdateService. " alt="" coords="5,138,187,215"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1factories_1_1CheckErrorsFactory.html" title="{CheckErrorsFactory\n||+ CheckErrorsFactory()\l+ make()\l}" alt="" coords="211,131,381,223"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1factories_1_1EmailErrorsServiceFactory.html" title="{EmailErrorsServiceFactory\n||+ EmailErrorsServiceFactory()\l+ make()\l}" alt="" coords="406,131,621,223"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1factories_1_1IndividualItemRefreshServiceFactory.html" title="This factory creates an IndividualItemRefreshService. " alt="" coords="645,131,851,223"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1factories_1_1OutOfHoursServiceFactory.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="875,138,1066,215"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1factories_1_1ReScanBuyerServiceFactory.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="1091,131,1317,223"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1factories_1_1ReScanErrorsServiceFactory.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="1341,131,1568,223"/>
+<area shape="rect" id="node9" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1factories_1_1TestServiceFactory.html" title="This factory creates a test service. " alt="" coords="1593,138,1735,215"/>
+</map>

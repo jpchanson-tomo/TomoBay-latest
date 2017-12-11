@@ -1,0 +1,4 @@
+var namespacecom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1helpers =
+[
+    [ "EbayOrderCancellationStatus", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1helpers_1_1EbayOrderCancellationStatus.html", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1helpers_1_1EbayOrderCancellationStatus" ]
+];

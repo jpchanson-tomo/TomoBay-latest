@@ -1,0 +1,5 @@
+<map id="setUpEmail" name="setUpEmail">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1email_1_1Email.html#acc7b010f914eeee1745a79004eca2481" title="sets the email body " alt="" coords="148,5,443,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1email_1_1Email.html#a5c78f073f0c4c95dddbb78f7a9eb6cd2" title="set a recipient of the email, valid RecipientType listed in Message.RecipientType : TO/CC/BCC..." alt="" coords="148,71,443,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1email_1_1Email.html#a39f0298f055f0b78ad2ac781d38f326f" title="set the subject line of the email. " alt="" coords="148,136,443,177"/>
+</map>

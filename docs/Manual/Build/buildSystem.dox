@@ -1,0 +1,119 @@
+/**
+\page Preliminaries Preliminaries
+[Home](@ref index) > [Development](@ref Development) > @b Preliminaries
+
+This project uses the Gradle build system to run build and test functionality as well as handling 
+dependency management. The choice to use Gradle was based on a couple of factors, chief among these
+was the use of a system that could easily deal with being used on windows(booo) as well as Linux,
+as well as the ease of extensibility and the scope of automation possibilities (through Gradle 
+plugins). 
+
+This project uses the following gradle plugins:
+
+- **Java** This plugin allows java projects to be manipulated and compiled using Gradle. As Gradle is
+uses the Groovy language by default, this plugin is integral to allowing the project to be built.
+ 
+- **Eclipse** This plugin is a convenience plugin, as most of the development for this project has
+been carried out using eclipse this aids in fulfilling certain eclipse based tasks.
+
+- **project-report** This plugin allows a project report containing various statistics relating to
+the health of the project such as: dependencies available gradle tasks and other useful tidbits.
+
+- **org.ysb33r.doxygen** This plugin is supposed to interface with the Doxygen documentation
+automation system and allow the generation of HTML documentation as a gradle task. Currently this
+functionality does not work, probably due to something stupid i havent done of forgotten, etc
+........one day........one day i'll get it right.
+
+- **com.github.samueltbrown.cucumber** This plugin allows the use of the cucumber acceptance testing
+within the project, making it possible to test the web based frontend using a gradle task. Like the 
+doxygen plugin, this one is also currently not working.
+
+These plugins have been chosen to try and automate the build, test and documentation procedures for 
+this project allowing for a 'full build' to run all of these procedures in sequence provide test
+reports as part of the documentation as a 'snapshot' of the current project health as of the last
+full build.
+
+##Style Guide
+- Max line length = 110 chars (guidleine not hard limit)
+- Tabs or Spaces ..... tabs ALWAYS dufus
+- curly braces should always be on a seperate line unless the opening brace, closing brace and the enclosed
+expression can be fit on one 110 char line.
+- Comment everything
+- if there is more than one level of nested conditional statements then somethings gone wrong
+- every class should have a constructor even if it is empty
+- every constructor should call super() before anything else, even if the super constructor is empty
+this is a defensive measure and a reminder.
+- Object Variables should be postfixed with a _M
+- Static variables should be in uppercase
+- Casting should be avoided wherever possible
+- enhanced for loop should be avoided due to it requiring extra overhead.
+- everything that can be final should be final
+
+
+##Testing
+As mentioned above I have made as much effort as possible to automate/semi-automate the testing
+process. Below is more detail about the various testing levels. Following the Gradle convention
+...mostly... all tests are located in com.tomoparts.tomoBay.test and its sub packages.
+
+###Unit Testing
+Unit testing is implemented with JUnit, unfortunately only newer functionality have unit tests
+associated with them as the project was not started from a TDD standpoint, the merits of such an
+approach, however, were discovered towards the end and as such the test covereage of the codebase
+is lacking. However any new functionality should have tests written first as part of the
+specifiaction for a particular piece of functionality/class. The results of the unit tests are 
+automatically placed in the '*Project Health -> [Unit Testing](@ref UnitTesting)*' 
+
+###Integration Testing
+A seperate testing framework has not been used for integration testing. Instead JUnit has been
+integration testing; again like the Unit testing as a TDD approach has not been taken from the start
+integration tests are currently lacking, however for any new modules integration should be written.
+As the Integration tests are functionally the same as unit tests, the results of these tests
+get placed in the same place as the unit tests result.
+
+
+###Acceptance Testing
+Work has been done to integrate the Cucumber Acceptance testing framework into the testing toolchain,
+the aim being to have Cucumber features written in the *Gherkin* language and the actual acceptance
+tests written in *Ruby*, and the tests launched as a Gradle task via a plugin. Currently however this
+is a work in progress and Acceptance testing needs to be written and launched manually. The results 
+of the acceptance tests should be placed in the '*Project Health -> [Acceptance Testing](@ref AcceptanceTesting)*'
+
+
+##Documentation
+The documentation is automatically generated from various code artifacts, this is possible due to the
+wonderful, amazing, beautiful [Doxygen](http://www.stack.nl/~dimitri/doxygen). There aren't enough
+words to explain how great this documentation generation system is, it can do pretty much everything
+you could want, and if it doesnt there is usually a way to hack it so that it does.
+
+[PlantUML](http://www.plantuml.com) is used in combination with this for the production of interactive 
+UML diagrams that can be easily embedded into the documentation. This is also a rather nice feature
+as the UML diagrams can be specified textually and are compiled and rendered when doxygen is run.
+
+###Building
+Currently I have not been able to get the Doxygen gradle plugin working so Doxygen has to be run manually
+from the same directory that the doxyfile is in, i.e. '..../projectDirectory/docs/' unless you are using
+doxywizard; in which case it is possible to just load the doxyfile into doxywizard and it will run fine.
+
+###Style Guide
+- first comment in a file should be the copyright and licence statement
+- Class comments should include the \@author tag and should describe the general purpose and design of the 
+class.
+- Every method and variable should be commented and use the following tags: \@return & \@param(if the method
+has arguments).
+- Variables use single line comments of the form '\\\*\*this is a variable comment\*\*\\' unless there is a 
+real need to explain it in detail, which generally means that there is something wrong with the design 
+or a really poor variable name has been chosen.
+- unit tests have a special layout \@test describes the purpose of the test, \@pre describes the preconditions
+to this test, \@post is used to define the behaviour guaranteed by this test passing.
+
+##Extensions
+The Build system can be extended through the use of gradle plugins, and by editing the build.gradle file, for
+more information the [Gradle](https://gradle.org) website provides a large number of tutorials that may be
+useful.
+
+The documentation system can be extended in a number of different ways which are beyond the scope of this 
+document to explain, the [Doxygen](http://www.stack.nl/~dimitri/doxygen). However if you look at the external 
+html sections of the doxyfile and then look in the 'projectRoot/docs/customisations' directory and you'll get 
+an idea of what can be done and how to do it, but seriously, look at the Doxygen page. 
+
+**/

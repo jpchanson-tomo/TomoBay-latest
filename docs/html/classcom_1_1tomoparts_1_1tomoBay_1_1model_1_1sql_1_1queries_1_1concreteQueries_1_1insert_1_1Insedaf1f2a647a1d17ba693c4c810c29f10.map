@@ -1,0 +1,5 @@
+<map id="InsertEbayTransactions" name="InsertEbayTransactions">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryTypes_1_1modify_1_1AbstractModifyQueryParams.html" title="This is the Abstract Base class for all queries that modify the database in some way (INSERT/UPDATE/D..." alt="" coords="5,300,235,436"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryTypes_1_1modify_1_1AbstractModifyQuery.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="30,175,210,252"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryTypes_1_1AbstractDBQuery.html" title="Interface that all database queries must adhere to. " alt="" coords="53,5,187,127"/>
+</map>

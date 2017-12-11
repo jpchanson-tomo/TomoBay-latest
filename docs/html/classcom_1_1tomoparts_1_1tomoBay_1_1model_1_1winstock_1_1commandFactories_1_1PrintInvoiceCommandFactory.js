@@ -1,0 +1,5 @@
+var classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1commandFactories_1_1PrintInvoiceCommandFactory =
+[
+    [ "PrintInvoiceCommandFactory", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1commandFactories_1_1PrintInvoiceCommandFactory.html#aa21ae62b5bc04df23f5825cd501afaf7", null ],
+    [ "make", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1commandFactories_1_1PrintInvoiceCommandFactory.html#a74688ca502733848c2502e976f2c648a", null ]
+];

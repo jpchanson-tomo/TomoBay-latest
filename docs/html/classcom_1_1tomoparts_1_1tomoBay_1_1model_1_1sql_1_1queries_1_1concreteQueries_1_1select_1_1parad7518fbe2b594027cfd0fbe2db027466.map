@@ -1,0 +1,5 @@
+<map id="SelectEbayOrderByBuyer" name="SelectEbayOrderByBuyer">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryTypes_1_1select_1_1AbstractSelectParamsQuery.html" title="This class defines the abstract base for all Select queries that take parameters. ..." alt="" coords="5,315,233,436"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryTypes_1_1select_1_1AbstractSelectQuery.html" title="{AbstractSelectQuery\n||+ AbstractSelectQuery()\l# format()\l}" alt="" coords="30,175,209,267"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryTypes_1_1AbstractDBQuery.html" title="Interface that all database queries must adhere to. " alt="" coords="53,5,186,127"/>
+</map>

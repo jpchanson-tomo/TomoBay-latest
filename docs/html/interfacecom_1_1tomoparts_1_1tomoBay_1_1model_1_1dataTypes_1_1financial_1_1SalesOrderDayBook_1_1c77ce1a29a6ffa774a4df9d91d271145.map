@@ -1,0 +1,5 @@
+<map id="AbstractSalesDayBookLineFactory" name="AbstractSalesDayBookLineFactory">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1factories_1_1GSPInvoiceFactory.html" title="{GSPInvoiceFactory\n||+ GSPInvoiceFactory()\l+ make()\l}" alt="" coords="5,160,171,252"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1factories_1_1StandardInvoiceFactory.html" title="{StandardInvoiceFactory\n||+ StandardInvoiceFactory()\l+ make()\l}" alt="" coords="195,160,392,252"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1fact707545dc5e0233d2b91fe6b2827e5abc.html" title="{StandardInvoiceWithShipping\lFactory\n||+ StandardInvoiceWithShipping\lFactory()\l+ make()\l}" alt="" coords="417,145,639,267"/>
+</map>

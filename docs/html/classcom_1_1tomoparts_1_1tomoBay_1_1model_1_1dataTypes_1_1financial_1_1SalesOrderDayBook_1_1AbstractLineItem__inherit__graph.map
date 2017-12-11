@@ -1,0 +1,5 @@
+<map id="AbstractLineItem" name="AbstractLineItem">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1concreteLineTypes_1_1GSPInvoiceLine.html" title="{GSPInvoiceLine\n||+ GSPInvoiceLine()\l# unitPrice()\l}" alt="" coords="5,270,149,362"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1conc5f457e0fcc0fab8be8291cad74a922e7.html" title="{StandardInvoiceLine\n||+ StandardInvoiceLine()\l# unitPrice()\l}" alt="" coords="173,270,349,362"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1conc0f525c284f2a5ac946be158d6b0f9d09.html" title="{StandardInvoiceShippingLine\n||+ StandardInvoiceShippingLine()\l+ quantity()\l+ description()\l+ partNo()\l# unitPrice()\l}" alt="" coords="374,248,605,384"/>
+</map>

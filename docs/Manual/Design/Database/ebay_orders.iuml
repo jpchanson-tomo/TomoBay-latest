@@ -1,0 +1,13 @@
+@startuml
+hide fields
+	class ebay_orders << (T, lightgreen) >>[[ebay_orders.html]] {
+		orderID : VARCHAR(30)
+		buyerID : VARCHAR(40)
+		salesRecNo : INT(10)
+		shippingType : VARCHAR(200)
+		createdTime : TIMESTAMP(n/a)
+		invoiced : INT(11)
+		orderTotal : FLOAT(12)
+		account : INT(10)
+	}
+@enduml

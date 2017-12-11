@@ -1,0 +1,6 @@
+<map id="get" name="get">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanErrorsService_1_1ReScanErrorsWinstockActions.html#a08319255a892c8a0f21883af69843d6c" title="this method checks to see if a particular item (through the ItemSpecifics passed in as an argument) h..." alt="" coords="96,5,459,61"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanErrorsService_1_1ReScanErrorsDBActions.html#a686181ed1b6d7f86e1b05653dc98f37e" title="updates the database with corrected information, as provided in the ItemSpecifics passed in as an arg..." alt="" coords="105,85,449,141"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanErrorsService_1_1OnRunning.html#ae4a4f4cadce2787c7e80005639fbd5d9" title="this method defines what to do in the given derived state " alt="" coords="507,53,807,94"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanErrorsService_1_1ReScanErrorsService.html#ae3b0a282dcba7f2d675ca89b1dd48487" title="com.tomoparts.tomoBay.model.services.re\lScanErrorsService.ReScanErrorsService.onRunning" alt="" coords="855,53,1201,94"/>
+</map>

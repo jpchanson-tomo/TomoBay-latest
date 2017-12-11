@@ -1,0 +1,5 @@
+<map id="getAddress" name="getAddress">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanBuyerService_1_1OnRunning.html#ae4a4f4cadce2787c7e80005639fbd5d9" title="this method defines what to do in the given derived state " alt="" coords="148,13,221,39"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanBuyerService_1_1ReScanBuyerService.html#ae3b0a282dcba7f2d675ca89b1dd48487" title="com.tomoparts.tomoBay.model.services.re\lScanBuyerService.ReScanBuyerService.onRunning" alt="" coords="269,5,615,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanBuyerService_1_1ReScanBuyerService.html#afd85cd6baa355d54ab15c19c16c21df9" title="com.tomoparts.tomoBay.model.services.re\lScanBuyerService.ReScanBuyerService.onPaused" alt="" coords="663,5,1004,47"/>
+</map>

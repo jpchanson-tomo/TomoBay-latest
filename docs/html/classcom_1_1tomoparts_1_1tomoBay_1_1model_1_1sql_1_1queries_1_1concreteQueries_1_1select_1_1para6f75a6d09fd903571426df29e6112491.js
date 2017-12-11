@@ -1,0 +1,8 @@
+var classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1queries_1_1concreteQueries_1_1select_1_1para6f75a6d09fd903571426df29e6112491 =
+[
+    [ "SelectBrandAndPartNoByOrderID", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1queries_1_1concreteQueries_1_1select_1_1para6f75a6d09fd903571426df29e6112491.html#a2bbb59d4b1912408b026b9920abe0125", null ],
+    [ "format", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1queries_1_1concreteQueries_1_1select_1_1para6f75a6d09fd903571426df29e6112491.html#a1a92c5a3f459b40738f1120fe59d4836", null ],
+    [ "setParameters", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1queries_1_1concreteQueries_1_1select_1_1para6f75a6d09fd903571426df29e6112491.html#af9020b85517904668d036bc2bf89433c", null ],
+    [ "queryString", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1queries_1_1concreteQueries_1_1select_1_1para6f75a6d09fd903571426df29e6112491.html#a94c0ad300f6dcd1054cff0591f5e7cc0", null ],
+    [ "query", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1queries_1_1concreteQueries_1_1select_1_1para6f75a6d09fd903571426df29e6112491.html#a7685a1f3bbbad84b1d68779b1ab8b354", null ]
+];

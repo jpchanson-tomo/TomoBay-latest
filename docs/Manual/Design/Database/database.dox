@@ -1,0 +1,22 @@
+/**
+\page Database Database
+[Home](@ref index) > [Development](@ref Development) > [Design](@ref Design) > @b Database
+
+@startuml
+!include ../Manual/Design/Database/entityRelationship.iuml
+@enduml
+
+The diagram above is an entity relationship diagram for the database as currently used by the 
+tomoBay system. This diagram is interactive and each table in the diagram provides a link to 
+a seperate page where that table is described in more detail. Please click on the table that you
+wish to find information on.
+
+attempts have been made to keep the database in third normal form, however in its current state it
+may require some re-jigging in order to be so.
+
+The structure of the database is mirrored in com.tomoparts.tomoBay.model.sql.schema package which
+provides a way for the programmer to query the database in an SQL-like way. for full explanation
+of the database framework see com.tomoparts.tomoBay.model.sql.
+
+| \subpage ebay_accounts | \subpage ebay_buyers | \subpage ebay_items | \subpage ebay_orders | \subpage ebay_transactions | \subpage order_status | \subpage outOfHours |
+**/

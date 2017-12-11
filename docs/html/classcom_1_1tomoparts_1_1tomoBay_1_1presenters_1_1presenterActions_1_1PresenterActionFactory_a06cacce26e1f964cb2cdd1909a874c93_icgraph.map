@@ -1,0 +1,7 @@
+<map id="make" name="make">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1orderDetails_1_1OrderDetailsPresenter.html#aae3ef9e158aa1e975acedd263e47fa3c" title="this method is called when you actually want to present the information to be displayed to the approp..." alt="" coords="117,5,411,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1admin_1_1AdminPresenter.html#aae3ef9e158aa1e975acedd263e47fa3c" title="this method is called when you actually want to present the information to be displayed to the approp..." alt="" coords="112,71,416,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1crm_1_1CRMDetailPresenter.html#aae3ef9e158aa1e975acedd263e47fa3c" title="this method is called when you actually want to present the information to be displayed to the approp..." alt="" coords="119,136,409,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1root_1_1RootPresenter.html#aae3ef9e158aa1e975acedd263e47fa3c" title="this method is called when you actually want to present the information to be displayed to the approp..." alt="" coords="119,201,409,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1crm_1_1CRMOverviewPresenter.html#aae3ef9e158aa1e975acedd263e47fa3c" title="this method is called when you actually want to present the information to be displayed to the approp..." alt="" coords="119,267,409,308"/>
+</map>

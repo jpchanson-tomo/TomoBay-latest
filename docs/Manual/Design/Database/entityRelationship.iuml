@@ -1,0 +1,79 @@
+@startuml
+
+/' --------------------------------GLOBAL----------------------------------- '/
+/' scale 1/1 '/
+/' left to right direction '/
+center footer interactive diagram, click on the item you wish to find information on.
+hide fields
+
+/' --------------------------UML DECLARATIONS------------------------------- '/
+package "Database ER Diagram" <<Frame>> {
+	
+	class ebay_buyers << (T, lightgreen) >>[[ebay_buyers.html]] {
+		buyerID : VARCHAR(40)
+		name : VARCHAR(45)
+		street1 : VARCHAR(80)
+		street2 : VARCHAR(80)
+		city : VARCHAR(80)
+		county : VARCHAR(80)
+		postcode : VARCHAR(15)
+		email : VARCHAR(100)
+		phone : VARCHAR(16)
+	} 
+	class ebay_orders << (T, lightgreen) >>[[ebay_orders.html]] {
+		orderID : VARCHAR(30)
+		buyerID : VARCHAR(40)
+		salesRecNo : INT(10)
+		shippingType : VARCHAR(200)
+		createdTime : TIMESTAMP(n/a)
+		invoiced : INT(11)
+		orderTotal : FLOAT(12)
+		account : INT(10)
+	}
+	class ebay_transactions << (T, lightgreen) >>[[ebay_transactions.html]] {
+		transactionID : BIGINT(20)
+		orderID : VARCHAR(30)
+		itemID : BIGINT(20)
+		quantity : INT(7)
+		price : FLOAT(12)
+		shippingCost : FLOAT(12)
+	}
+	class ebay_items << (T, lightgreen) >>[[ebay_items.html]] {
+		itemID : BIGINT(20)
+		title : VARCHAR(83)
+		sellCondition : VARCHAR(15)
+		brand : VARCHAR(50)
+		partNo : VARCHAR(55)
+		notes : VARCHAR(60)
+		account : INT(11)
+	}
+	class ebay_accounts << (T, lightgreen) >>[[ebay_accounts.html]] {
+		id : INT(3)
+		acountName : VARCHAR(20)
+		apiKey : VARCHAR(900)
+		serverAddr : VARCHAR(45)
+		lookbackDays : INT(3)
+	}
+	class order_status << (T, lightgreen) >>[[order_status.html]] {
+		orderID : VARCHAR(30)
+		picked : TINYINT(1)
+		packed : TINYINT(1)
+		shipped : TINYINT(1)
+		invoiceNo : INT(11)
+	}
+	class outOfHours << (T, lightgreen) >>[[outOfHours.html]] {
+		salesRecNo : INT(3)
+		date: DATE(n/a)
+	}
+} 
+
+/' -------------------------------UML WIRING---------------------------------'/
+ebay_buyers "1..1" -- "1..*" ebay_orders
+ebay_accounts "1..1" -- "1..*" ebay_orders
+ebay_transactions "1..*" -- "0..1" ebay_orders
+ebay_items "1..1" -- "1..*" ebay_transactions
+ebay_orders "0..1" -- "1..1" order_status
+ebay_orders "0..*" -- "0..*" outOfHours
+ebay_items "1..*" -- "1..1" ebay_accounts
+
+@enduml

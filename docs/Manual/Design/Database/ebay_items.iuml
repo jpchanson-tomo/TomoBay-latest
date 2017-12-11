@@ -1,0 +1,12 @@
+@startuml
+hide fields
+	class ebay_items << (T, lightgreen) >>[[ebay_items.html]] {
+		itemID : BIGINT(20)
+		title : VARCHAR(83)
+		sellCondition : VARCHAR(15)
+		brand : VARCHAR(50)
+		partNo : VARCHAR(55)
+		notes : VARCHAR(60)
+		account : INT(11)
+	}
+@enduml

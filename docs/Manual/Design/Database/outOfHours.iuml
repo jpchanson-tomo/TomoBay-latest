@@ -1,0 +1,7 @@
+@startuml
+hide fields
+class outOfHours << (T, lightgreen) >>[[outOfHours.html]] {
+		salesRecNo : INT(3)
+		date: DATE(n/a)
+	}
+@enduml

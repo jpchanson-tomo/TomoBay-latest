@@ -1,0 +1,6 @@
+<map id="EmailErrorsMailActions" name="EmailErrorsMailActions">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1email_1_1MailServerSend.html" title="This class represents a MailServer send connection, it allows the sending of email from a specific ad..." alt="" coords="263,160,462,296"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1email_1_1AbstractEmailBuilder.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="122,359,371,465"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1email_1_1Email.html" title="This class represents an email, it contains recipients a subject and a message body. " alt="" coords="47,160,193,296"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1email_1_1EmailDirector.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="155,528,365,649"/>
+</map>

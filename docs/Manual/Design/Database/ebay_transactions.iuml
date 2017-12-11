@@ -1,0 +1,11 @@
+@startuml
+hide fields
+class ebay_transactions << (T, lightgreen) >>[[ebay_transactions.html]] {
+		transactionID : BIGINT(20)
+		orderID : VARCHAR(30)
+		itemID : BIGINT(20)
+		quantity : INT(7)
+		price : FLOAT(12)
+		shippingCost : FLOAT(12)
+	}
+@enduml

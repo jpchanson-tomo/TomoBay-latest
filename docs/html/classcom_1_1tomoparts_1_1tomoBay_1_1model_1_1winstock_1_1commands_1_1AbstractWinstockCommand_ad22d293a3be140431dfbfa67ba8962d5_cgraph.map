@@ -1,0 +1,9 @@
+<map id="AbstractWinstockCommand" name="AbstractWinstockCommand">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1commands_1_1AbstractWinstockCommand.html#a9f9a9e2f48d51a5a2330361bd5077470" title="this method executes the AbstractWinstockCommand specific to the derived type. " alt="" coords="360,5,433,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1WinstockConfig.html#a6a08fcc1415d1a09bf338223bcb6919d" title="method used to get the string representing the name of the machine on which winstock is running..." alt="" coords="252,57,541,98"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1WinstockConfig.html#a6b637334c5d8e69c154325c9aa55bbfd" title="method used to retrieve the port on which winstock is running. " alt="" coords="252,122,541,163"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1ConfigReader.html#a310420c6db22982498520c2ad7a2b82f" title="find the value of the config variable specified in the arguments. " alt="" coords="589,90,828,131"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1ConfigReader.html#ab69b4a3a0fc6a7c7440362b06ec4b4d3" title="reads the whole config file into a string " alt="" coords="876,25,1115,66"/>
+<area shape="rect" id="node6" href="$enumcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1Config.html#a43cb99408ba4f337caad395ca67f9a6c" title="return the string associated with the enum const " alt="" coords="876,90,1115,131"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1helpers_1_1XMLParser.html#a9936151017dd4e908cf37d453b22c8ef" title="parses an XML formatted string looking for the first tag specified in the parameters. " alt="" coords="876,155,1115,197"/>
+</map>

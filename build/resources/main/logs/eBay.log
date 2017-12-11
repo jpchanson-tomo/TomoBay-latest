@@ -1,0 +1,28 @@
+{
+"type":"ERROR",
+"time":"2016-06-17 09:15:35,073",
+"message":"com.ebay.sdk.ApiException: This item cannot be accessed because the listing has been deleted, is a Half.com listing, or you are not the seller.",
+"source":"com.ebay.sdk.ApiCall"
+},
+
+{
+"type":"ERROR",
+"time":"2016-07-29 11:46:10,620",
+"message":"com.ebay.sdk.ApiException: This item cannot be accessed because the listing has been deleted, is a Half.com listing, or you are not the seller.",
+"source":"com.ebay.sdk.ApiCall"
+},
+
+{
+"type":"ERROR",
+"time":"2016-07-29 11:46:30,473",
+"message":"com.ebay.sdk.ApiException: This item cannot be accessed because the listing has been deleted, is a Half.com listing, or you are not the seller.",
+"source":"com.ebay.sdk.ApiCall"
+},
+
+{
+"type":"ERROR",
+"time":"2016-07-29 11:46:47,367",
+"message":"com.ebay.sdk.ApiException: This item cannot be accessed because the listing has been deleted, is a Half.com listing, or you are not the seller.",
+"source":"com.ebay.sdk.ApiCall"
+},
+

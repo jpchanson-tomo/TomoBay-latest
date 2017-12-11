@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfacecom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1commandFactories_1_1AbstractWinstockCommandFactory.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="5,31,252,57"/>
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1commandFactories_1_1PrintInvoiceCommandFactory.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="300,5,509,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1winstock_1_1commandFactories_1_1PutInvoiceCommandFactory.html" title="PutInvoiceCommandFactory" alt="" coords="304,56,505,83"/>
+</map>

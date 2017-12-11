@@ -1,0 +1,8 @@
+<map id="invoiceNumber" name="invoiceNumber">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1PrintInvoices.html#adb3dedf31dc2c7fc796f20406c235ccd" title="performs the action specified " alt="" coords="551,45,874,86"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1InvoiceOrders.html#adb3dedf31dc2c7fc796f20406c235ccd" title="performs the action specified " alt="" coords="174,41,497,82"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1PrintInvoices.html#a3396bf15e4a594abdeb16cb37f076ce2" title="actually send the data to the winstock server to print the invoice " alt="" coords="174,106,497,147"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1OrderInfo.html#a95f980d76c5d92ed97b2aaab0d2d0c21" title="formats the summary information for this Order " alt="" coords="172,171,499,213"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1OrderInfo.html#afeec1aeda079b77245edea1e74b25f33" title="assembles the various parts of the order and outputs it as a fully formed JSON string. " alt="" coords="547,171,879,213"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1OrderInfo.html#adb3dedf31dc2c7fc796f20406c235ccd" title="performs the action specified " alt="" coords="927,171,1249,213"/>
+</map>

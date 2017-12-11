@@ -1,0 +1,6 @@
+<map id="isSuccess" name="isSuccess">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1PrintInvoices.html#a3396bf15e4a594abdeb16cb37f076ce2" title="actually send the data to the winstock server to print the invoice " alt="" coords="139,5,461,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1test_1_1unit_1_1model_1_1net_1_1ClientSocketTest.html#a9e05d6ab69028f9da119689d187c95b2" title="com.tomoparts.tomoBay.test.unit.model.net.\lClientSocketTest.test" alt="" coords="143,71,457,112"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1PrintInvoices.html#adb3dedf31dc2c7fc796f20406c235ccd" title="performs the action specified " alt="" coords="509,5,832,47"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1test_1_1unit_1_1model_1_1net_1_1ClientSocketTest.html#a8b260eecbaabcef8473fd87ada040682" title="com.tomoparts.tomoBay.test.unit.model.net.\lClientSocketTest.main" alt="" coords="514,71,827,112"/>
+</map>

@@ -1,0 +1,392 @@
+{
+"type":" INFO",
+"time":"2016-06-13 14:15:45,250",
+"message":"Logging initialized @337ms",
+"source":"org.eclipse.jetty.util.log.Log"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:15:45,377",
+"message":"jetty-9.3.9.v20160517",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:15:45,424",
+"message":"Started o.e.j.s.h.ContextHandler@11531931{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:15:45,434",
+"message":"Started o.e.j.s.ServletContextHandler@3ac3fd8b{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:15:45,434",
+"message":"Started o.e.j.s.h.ContextHandler@5e025e70{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:15:45,494",
+"message":"x509=X509@17f6480(tomobay,h=[],w=[]) for SslContextFactory@2d6e8792(file:///home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/src/main/resources/keystore/keystore.jks,null)",
+"source":"org.eclipse.jetty.util.ssl.SslContextFactory"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:15:45,718",
+"message":"Started ServerConnector@1095dfa0{SSL,[ssl, http/1.1]}{0.0.0.0:1337}",
+"source":"org.eclipse.jetty.server.AbstractConnector"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:15:45,718",
+"message":"Started @821ms",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:40:14,942",
+"message":"Logging initialized @324ms",
+"source":"org.eclipse.jetty.util.log.Log"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:40:15,107",
+"message":"jetty-9.3.9.v20160517",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:40:15,189",
+"message":"Started o.e.j.s.h.ContextHandler@11531931{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:40:15,211",
+"message":"Started o.e.j.s.ServletContextHandler@3ac3fd8b{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:40:15,211",
+"message":"Started o.e.j.s.h.ContextHandler@5e025e70{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:40:15,269",
+"message":"x509=X509@17f6480(tomobay,h=[],w=[]) for SslContextFactory@2d6e8792(file:///home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/src/main/resources/keystore/keystore.jks,null)",
+"source":"org.eclipse.jetty.util.ssl.SslContextFactory"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:40:15,555",
+"message":"Started ServerConnector@1095dfa0{SSL,[ssl, http/1.1]}{0.0.0.0:1337}",
+"source":"org.eclipse.jetty.server.AbstractConnector"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:40:15,555",
+"message":"Started @949ms",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:45:15,655",
+"message":"Logging initialized @345ms",
+"source":"org.eclipse.jetty.util.log.Log"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:45:15,813",
+"message":"jetty-9.3.9.v20160517",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:45:15,863",
+"message":"Started o.e.j.s.h.ContextHandler@11531931{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:45:15,874",
+"message":"Started o.e.j.s.ServletContextHandler@3ac3fd8b{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:45:15,874",
+"message":"Started o.e.j.s.h.ContextHandler@5e025e70{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:45:15,932",
+"message":"x509=X509@17f6480(tomobay,h=[],w=[]) for SslContextFactory@2d6e8792(file:///home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/src/main/resources/keystore/keystore.jks,null)",
+"source":"org.eclipse.jetty.util.ssl.SslContextFactory"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:45:16,169",
+"message":"Started ServerConnector@1095dfa0{SSL,[ssl, http/1.1]}{0.0.0.0:1337}",
+"source":"org.eclipse.jetty.server.AbstractConnector"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:45:16,170",
+"message":"Started @875ms",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:53:57,561",
+"message":"Logging initialized @471ms",
+"source":"org.eclipse.jetty.util.log.Log"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:53:57,751",
+"message":"jetty-9.3.9.v20160517",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:53:57,806",
+"message":"Started o.e.j.s.h.ContextHandler@11531931{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:53:57,826",
+"message":"Started o.e.j.s.ServletContextHandler@3ac3fd8b{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:53:57,826",
+"message":"Started o.e.j.s.h.ContextHandler@5e025e70{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:53:57,921",
+"message":"x509=X509@17f6480(tomobay,h=[],w=[]) for SslContextFactory@2d6e8792(file:///home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/src/main/resources/keystore/keystore.jks,null)",
+"source":"org.eclipse.jetty.util.ssl.SslContextFactory"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:53:58,344",
+"message":"Started ServerConnector@39c0f4a{SSL,[ssl, http/1.1]}{0.0.0.0:1337}",
+"source":"org.eclipse.jetty.server.AbstractConnector"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 14:53:58,344",
+"message":"Started @1267ms",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:11:48,471",
+"message":"Logging initialized @310ms",
+"source":"org.eclipse.jetty.util.log.Log"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:11:48,639",
+"message":"jetty-9.3.9.v20160517",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:11:48,712",
+"message":"Started o.e.j.s.h.ContextHandler@11531931{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:11:48,729",
+"message":"Started o.e.j.s.ServletContextHandler@3ac3fd8b{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:11:48,730",
+"message":"Started o.e.j.s.h.ContextHandler@5e025e70{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:11:48,808",
+"message":"x509=X509@17f6480(tomobay,h=[],w=[]) for SslContextFactory@2d6e8792(file:///home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/src/main/resources/keystore/keystore.jks,null)",
+"source":"org.eclipse.jetty.util.ssl.SslContextFactory"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:11:49,014",
+"message":"Started ServerConnector@39c0f4a{SSL,[ssl, http/1.1]}{0.0.0.0:1337}",
+"source":"org.eclipse.jetty.server.AbstractConnector"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:11:49,014",
+"message":"Started @867ms",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:21:43,154",
+"message":"Logging initialized @330ms",
+"source":"org.eclipse.jetty.util.log.Log"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:21:43,337",
+"message":"jetty-9.3.9.v20160517",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:21:43,424",
+"message":"Started o.e.j.s.h.ContextHandler@11531931{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:21:43,448",
+"message":"Started o.e.j.s.ServletContextHandler@3ac3fd8b{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:21:43,449",
+"message":"Started o.e.j.s.h.ContextHandler@5e025e70{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:21:43,524",
+"message":"x509=X509@17f6480(tomobay,h=[],w=[]) for SslContextFactory@2d6e8792(file:///home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/src/main/resources/keystore/keystore.jks,null)",
+"source":"org.eclipse.jetty.util.ssl.SslContextFactory"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:21:43,783",
+"message":"Started ServerConnector@6e26cee7{SSL,[ssl, http/1.1]}{0.0.0.0:1337}",
+"source":"org.eclipse.jetty.server.AbstractConnector"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:21:43,784",
+"message":"Started @972ms",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:22:46,625",
+"message":"Logging initialized @323ms",
+"source":"org.eclipse.jetty.util.log.Log"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:22:46,754",
+"message":"jetty-9.3.9.v20160517",
+"source":"org.eclipse.jetty.server.Server"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:22:46,809",
+"message":"Started o.e.j.s.h.ContextHandler@11531931{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:22:46,818",
+"message":"Started o.e.j.s.ServletContextHandler@3ac3fd8b{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:22:46,819",
+"message":"Started o.e.j.s.h.ContextHandler@5e025e70{/,null,AVAILABLE}",
+"source":"org.eclipse.jetty.server.handler.ContextHandler"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:22:46,895",
+"message":"x509=X509@17f6480(tomobay,h=[],w=[]) for SslContextFactory@2d6e8792(file:///home/orpheus/Projects/Personal/Java/TomoBay/TomoGradle/src/main/resources/keystore/keystore.jks,null)",
+"source":"org.eclipse.jetty.util.ssl.SslContextFactory"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:22:47,109",
+"message":"Started ServerConnector@39c0f4a{SSL,[ssl, http/1.1]}{0.0.0.0:1337}",
+"source":"org.eclipse.jetty.server.AbstractConnector"
+},
+
+{
+"type":" INFO",
+"time":"2016-06-13 15:22:47,109",
+"message":"Started @819ms",
+"source":"org.eclipse.jetty.server.Server"
+},
+

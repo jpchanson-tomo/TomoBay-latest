@@ -1,0 +1,4 @@
+var interfacecom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryFactories_1_1AbstractModifyQueryNoParamsFactory =
+[
+    [ "make", "interfacecom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1queryFactories_1_1AbstractModifyQueryNoParamsFactory.html#a4994397c8060c2cc272d1d23026654d2", null ]
+];

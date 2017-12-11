@@ -1,0 +1,7 @@
+<map id="start" name="start">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1HttpServer.html#a56553209947efc21dd702a4389af8c20" title="set up the unsecured HTTP connector so that retards can access certain functionality without having t..." alt="" coords="141,5,256,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1HttpServer.html#a0c34b163e64bf808b5834997c2734543" title="do setup for the servlet handler " alt="" coords="105,56,292,83"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1HttpServer.html#a65b0b81d4aceba0f463e6fe36596760f" title="do setup for the static resource handler " alt="" coords="133,107,264,133"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1HttpServer.html#a1bf8937bcc6feebd7f2a7ac640bbfe95" title="setUpUnsecuredServlet" alt="" coords="111,157,286,184"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1HttpServer.html#a6b549ec85bbf44d0d9606964cad26097" title="set up the ssl server connector " alt="" coords="146,208,251,235"/>
+</map>

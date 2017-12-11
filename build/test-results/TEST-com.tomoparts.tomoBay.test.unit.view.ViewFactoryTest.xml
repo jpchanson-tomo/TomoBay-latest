@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tomoparts.tomoBay.test.unit.view.ViewFactoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-07-29T14:14:36" hostname="Poseidon" time="0.03">
+  <properties/>
+  <testcase name="testVisitErrorPresenter" classname="com.tomoparts.tomoBay.test.unit.view.ViewFactoryTest" time="0.002"/>
+  <testcase name="testVisitSalesHistoryPresenter" classname="com.tomoparts.tomoBay.test.unit.view.ViewFactoryTest" time="0.002"/>
+  <testcase name="testVisitWarehouseOrderPresenter" classname="com.tomoparts.tomoBay.test.unit.view.ViewFactoryTest" time="0.011"/>
+  <testcase name="testVisitRootPresenter" classname="com.tomoparts.tomoBay.test.unit.view.ViewFactoryTest" time="0.0"/>
+  <testcase name="testVisitSalesOrderPresenter" classname="com.tomoparts.tomoBay.test.unit.view.ViewFactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

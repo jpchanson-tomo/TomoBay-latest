@@ -1,0 +1,12 @@
+<map id="AbstractView" name="AbstractView">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1AdminServiceView.html" title="{AdminServiceView\n||+ format()\l}" alt="" coords="5,153,144,230"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1CRMDetailView.html" title="{CRMDetailView\n||+ CRMDetailView()\l+ format()\l}" alt="" coords="168,145,309,237"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1CRMOverviewView.html" title="{CRMOverviewView\n||+ CRMOverviewView()\l+ format()\l}" alt="" coords="334,145,495,237"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1ErrorView.html" title="{ErrorView\n||+ format()\l}" alt="" coords="520,153,611,230"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1OrderView.html" title="{OrderView\n||+ format()\l}" alt="" coords="635,153,725,230"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1OutOfHoursView.html" title="{OutOfHoursView\n||+ format()\l&#45; replaceLast()\l}" alt="" coords="750,145,877,237"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1RootView.html" title="{RootView\n||+ format()\l}" alt="" coords="901,153,992,230"/>
+<area shape="rect" id="node9" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1SalesHistoryView.html" title="{SalesHistoryView\n||+ format()\l&#45; replaceLast()\l}" alt="" coords="1016,145,1147,237"/>
+<area shape="rect" id="node10" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1salesOrderView_1_1SalesOrderView.html" title="This class is responsible for formatting the data passed to it by the SalesOrderPresenter and providi..." alt="" coords="1171,131,1317,252"/>
+<area shape="rect" id="node11" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1WarehouseOrderView.html" title="{WarehouseOrderView\n||+ format()\l}" alt="" coords="1342,153,1501,230"/>
+</map>

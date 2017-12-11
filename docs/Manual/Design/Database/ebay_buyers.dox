@@ -1,0 +1,42 @@
+/**
+\page ebay_buyers ebay_buyers
+[Home](@ref index) > [Development](@ref Development) > [Design](@ref Design) > [Database](@ref Database) > @b ebay_buyers
+
+@startuml
+!include ../Manual/Design/Database/ebay_buyers.iuml
+@enduml
+
+This table contains all information relating to an eBay buyer (someone who bought something off
+eBay). It includes all the usual address and name information as well as email and phone number
+if available. 
+
+- **buyerID** this is the primary key of the table and the unique identifier for each record in
+this table. It is a VARCHAR/String field with a maximum length of 40 characters. This field is 
+equivalent to the eBay user id of the buyer.
+
+- **name** This is pretty self explanatory, it is the real name of the buyer. It is a VARCHAR/String
+field with a maximum length of 45 characters. 
+
+- **street1** This is the first line of the buyers address, it is a VARCHAR/String field with a 
+maximum length of 80 characters.
+
+- **street2** This is the second line of the buyers address, it is a VARCHAR/String field with a 
+maximum length of 80 characters.
+
+- **city** This is the line in the address that represents the postal city/town of the buyer, it
+is a VARCHAR/String field with a maximum length of 80 characters.
+
+- **county** This is the line in the address that represents the county that the buyer lives in,
+it is a VARCHAR/String field with a maximum length of 80 characters.
+
+- **postcode** This is the line in the address that represents the postcode that the buyer lives in
+, it is a VARCHAR/String field with a maximum length of 15 characters.
+
+- **email** This field represents the contact email address of the buyer, it is a VARCHAR/String 
+field with a maximum length of 100 characters.
+
+- **phone** This field stores the contact telephone number of the buyer, it is an Int field with 
+a maximum length of 16 digits.
+
+@see  com.tomoparts.tomoBay.model.sql.schema.buyerTable
+**/

@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1DataSetList.html" title="DataSetList\&lt; K, V \&gt;" alt="" coords="145,5,297,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1DualList.html" title="A DualList can be seen as two parralel lists of generic type, or alternatively a list containing valu..." alt="" coords="149,56,294,83"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1AbstractSalesDayBookLine.html" title="This class represents an Abstract sales day book entry, i.e. " alt="" coords="124,107,319,133"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1concreteLineTypes_1_1GSPInvoice.html" title="GSPInvoice" alt="" coords="423,56,517,83"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1conc7e5bfa2ca7d29ae399a076f000f5c217.html" title="This class represents a standard invoice without extra shipping. " alt="" coords="407,107,533,133"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1conc423d5799d246db2ad40dc7ffc82f40db.html" title="StandardInvoiceWithShipping" alt="" coords="367,157,573,184"/>
+</map>

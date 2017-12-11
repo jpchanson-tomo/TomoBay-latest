@@ -1,0 +1,7 @@
+<map id="updateDBwithCorrectedInfo" name="updateDBwithCorrectedInfo">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1heteroTypeContainer_1_1HeteroFieldContainer.html#a3ba6289417930238a36bfee0056b6398" title="add an arbitrary value to this Field container with the stipulation that this value is of the same ty..." alt="" coords="275,5,550,61"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1framework_1_1ModifyQueryInvoker.html#ab8ef0fdf15f6720620e297c77ab25d46" title="com.tomoparts.tomoBay.model.sql.framework.\lModifyQueryInvoker.execute" alt="" coords="251,86,575,127"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanErrorsService_1_1ItemSpecifics.html#ad28f052945833b0267c4353afcbf58eb" title="returns a particular Item specific " alt="" coords="263,151,563,193"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1reScanErrorsService_1_1ItemSpecifics.html#a6f88f2bf3d7e595a8857570aa6076890" title="provides the itemID associated with this ItemSpecifics object " alt="" coords="263,217,563,258"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1heteroTypeContainer_1_1HeteroFieldContainer.html#a9dee3c01eb5ab16203e1c6820a569484" title="performs a type check, assuming that field and type are of the same type then this method returns tru..." alt="" coords="623,5,897,61"/>
+</map>

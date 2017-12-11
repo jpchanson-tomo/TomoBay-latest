@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfacecom_1_1tomoparts_1_1tomoBay_1_1view_1_1AbstractView.html" title="this is the interface that all views must subscribe to. " alt="" coords="5,233,111,260"/>
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1AdminServiceView.html" title="AdminServiceView" alt="" coords="169,5,307,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1CRMDetailView.html" title="CRMDetailView" alt="" coords="180,56,296,83"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1CRMOverviewView.html" title="CRMOverviewView" alt="" coords="170,107,306,133"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1ErrorView.html" title="ErrorView" alt="" coords="197,157,279,184"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1OrderView.html" title="OrderView" alt="" coords="195,208,281,235"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1OutOfHoursView.html" title="OutOfHoursView" alt="" coords="175,259,301,285"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1RootView.html" title="RootView" alt="" coords="198,309,278,336"/>
+<area shape="rect" id="node9" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1SalesHistoryView.html" title="SalesHistoryView" alt="" coords="173,360,303,387"/>
+<area shape="rect" id="node10" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1salesOrderView_1_1SalesOrderView.html" title="This class is responsible for formatting the data passed to it by the SalesOrderPresenter and providi..." alt="" coords="177,411,299,437"/>
+<area shape="rect" id="node11" href="$classcom_1_1tomoparts_1_1tomoBay_1_1view_1_1views_1_1WarehouseOrderView.html" title="WarehouseOrderView" alt="" coords="159,461,317,488"/>
+</map>

@@ -1,0 +1,32 @@
+/**
+\page ebay_accounts ebay_accounts
+[Home](@ref index) > [Development](@ref Development) > [Design](@ref Design) > [Database](@ref Database) > @b ebay_accounts
+
+@startuml
+!include ../Manual/Design/Database/ebay_accounts.iuml
+@enduml
+
+The accounts table holds the data relating to the different eBay accounts that the system manages.
+This information is necessary for the system to be able to connect to the eBay API, and includes
+things like the API key, the api endpoint and other information useful to this end.
+
+- **id** this field is the unique identifier for records in the accounts table, it is also the
+primary key for this table. This field is an integer with a maximum length of 3 digits.
+
+- **accountName** this field represents the human readable name of an ebay_accounts record, this
+is what the system should display to users when interacting directly with account information.
+It is a VARCHAR/String field with a maximum of 20 characters.
+
+- **apiKey** this field represents the API key of this account record, this field is necessary
+for connecting to the eBay API. It is a VARCHAR/String field with a maximum of 900 characters.
+
+- **serverAddr** this field represents the API endpoint that this account record is a web address, 
+this is necessary so that the system knows where to connect to. It is a VARCHAR/String field with
+a 45 character maximum.
+
+- **lookbackDays** this field represents the number of days in the past that the system should use
+to look for information. It is an integer field with a maximum of 3 digits.
+
+@see com.tomoparts.tomoBay.model.sql.schema.accountsTable;
+
+**/

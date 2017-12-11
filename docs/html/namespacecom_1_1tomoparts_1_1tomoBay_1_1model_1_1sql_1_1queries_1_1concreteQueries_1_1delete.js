@@ -1,0 +1,4 @@
+var namespacecom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1queries_1_1concreteQueries_1_1delete =
+[
+    [ "DeleteOrderFromOrderStatus", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1queries_1_1concreteQueries_1_1delete_1_1DeleteOrderFromOrderStatus.html", "classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1sql_1_1queries_1_1concreteQueries_1_1delete_1_1DeleteOrderFromOrderStatus" ]
+];

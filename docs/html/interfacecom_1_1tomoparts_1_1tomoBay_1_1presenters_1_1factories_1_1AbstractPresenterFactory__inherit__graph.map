@@ -1,0 +1,11 @@
+<map id="AbstractPresenterFactory" name="AbstractPresenterFactory">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1factories_1_1AdminServicePresenterFactory.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="5,138,224,215"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1factories_1_1CRMDetailPresenterFactory.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="248,131,469,223"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1factories_1_1CRMOverviewPresenterFactory.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="494,131,735,223"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1factories_1_1ErrorPresenterFactory.html" title="This class is creates an ErrorPresenter object. " alt="" coords="760,131,947,223"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1factories_1_1OrderDetailsPresenterFactory.html" title="{OrderDetailsPresenterFactory\n||+ OrderDetailsPresenterFactory()\l+ make()\l}" alt="" coords="971,131,1207,223"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1factories_1_1OutOfHoursPresenterFactory.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="1231,138,1438,215"/>
+<area shape="rect" id="node8" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1factories_1_1RootPresenterFactory.html" title="This class is creates an RootPresenter object. " alt="" coords="1462,131,1647,223"/>
+<area shape="rect" id="node9" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1factories_1_1SalesHistoryPresenterFactory.html" title="Copyright(C) 2015 Jan P.C. " alt="" coords="1672,138,1883,215"/>
+<area shape="rect" id="node10" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1factories_1_1SalesOrderPresenterFactory.html" title="This class is creates an SalesOrderPresenter object. " alt="" coords="1907,131,2133,223"/>
+</map>

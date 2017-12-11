@@ -1,0 +1,23 @@
+/**
+\page outOfHours outOfHours
+[Home](@ref index) > [Development](@ref Development) > [Design](@ref Design) > [Database](@ref Database) > @b outOfHours
+
+@startuml
+!include ../Manual/Design/Database/outOfHours.iuml
+@enduml
+
+This table is used for the storage and retrieval of the sales record numbers (tomo order numbers)
+that are unprocessed at the end of and before the start of each business day this gets used by the
+accounts guys for something accountingy.
+
+- **salesRecNo** This field is the sales record number of the order that has not been invoiced
+within business hours, on a particular day. This is part of a compound primary key along with the
+only other field in this table. It is an INTEGER field with a maximum length of 3 digits.
+
+
+- **date** This field is the date on which the this order was not processed, it is a DATE field 
+maximum length is not applicable. This field in conjunction with the sales record number forms a 
+compound primary key for this table.
+
+@see com.tomoparts.tomoBay.model.sql.schema.outOfHoursTable 
+**/

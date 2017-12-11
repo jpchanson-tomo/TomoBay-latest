@@ -1,0 +1,8 @@
+<map id="constructEmailAndServer" name="constructEmailAndServer">
+<area shape="rect" id="node2" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1services_1_1emailErrorsService_1_1EmailErrorsMailActions.html#ac25d519c7ee7b6a51c445abba35389e5" title="default ctor " alt="" coords="252,5,575,61"/>
+<area shape="rect" id="node3" href="$classcom_1_1tomoparts_1_1tomoBay_1_1test_1_1unit_1_1model_1_1net_1_1email_1_1EmailTest.html#a8b260eecbaabcef8473fd87ada040682" title="com.tomoparts.tomoBay.test.unit.model.net.email.\lEmailTest.main" alt="" coords="237,86,589,127"/>
+<area shape="rect" id="node4" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1email_1_1MailClient.html#af9eddf4b6d3506f30b2f282c86c59ed6" title="sends an email containing a message and subject. " alt="" coords="266,151,561,193"/>
+<area shape="rect" id="node5" href="$classcom_1_1tomoparts_1_1tomoBay_1_1model_1_1net_1_1email_1_1MailClient.html#a9a353e90e57af1d4968845017c4d6fa8" title="com.tomoparts.tomoBay.model.net.email.\lMailClient.MailClient" alt="" coords="666,118,961,159"/>
+<area shape="rect" id="node6" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1InvoiceOrders.html#a9c77c827472e4f09aa020d55e7d33b10" title="com.tomoparts.tomoBay.presenters.presenter\lActions.concreteActions.InvoiceOrders.emailResults" alt="" coords="637,183,989,225"/>
+<area shape="rect" id="node7" href="$classcom_1_1tomoparts_1_1tomoBay_1_1presenters_1_1presenterActions_1_1concreteActions_1_1InvoiceOrders.html#adb3dedf31dc2c7fc796f20406c235ccd" title="performs the action specified " alt="" coords="1037,183,1360,225"/>
+</map>

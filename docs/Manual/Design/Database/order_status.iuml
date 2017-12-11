@@ -1,0 +1,10 @@
+@startuml
+hide fields
+class order_status << (T, lightgreen) >>[[order_status.html]] {
+		orderID : VARCHAR(30)
+		picked : TINYINT(1)
+		packed : TINYINT(1)
+		shipped : TINYINT(1)
+		invoiceNo : INT(11)
+	}
+@enduml

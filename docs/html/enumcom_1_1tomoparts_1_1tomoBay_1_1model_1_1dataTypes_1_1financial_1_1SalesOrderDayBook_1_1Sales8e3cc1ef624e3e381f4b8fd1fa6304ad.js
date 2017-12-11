@@ -1,0 +1,6 @@
+var enumcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1Sales8e3cc1ef624e3e381f4b8fd1fa6304ad =
+[
+    [ "STANDARD_INVOICE", "enumcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1Sales8e3cc1ef624e3e381f4b8fd1fa6304ad.html#a0fd5c6640b7ffdbcb6a2f3f9c028ec28", null ],
+    [ "STANDARD_INVOICE_WITH_SHIPPING", "enumcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1Sales8e3cc1ef624e3e381f4b8fd1fa6304ad.html#a1e7f2ac866d05e12b9a438980e0af1b7", null ],
+    [ "GSP_INVOICE", "enumcom_1_1tomoparts_1_1tomoBay_1_1model_1_1dataTypes_1_1financial_1_1SalesOrderDayBook_1_1Sales8e3cc1ef624e3e381f4b8fd1fa6304ad.html#a14939c757d35e84f52d31f7587061d6b", null ]
+];
