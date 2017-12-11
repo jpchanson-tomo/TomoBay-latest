@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailNonceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-07-29T14:14:36" hostname="Poseidon" time="0.11">
-  <properties/>
-  <testcase name="testRoyalMailNonce" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailNonceTest" time="0.005"/>
-  <testcase name="testEncode" classname="com.tomoparts.tomoBay.test.unit.model.royalMail.RoyalMailNonceTest" time="0.105"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
